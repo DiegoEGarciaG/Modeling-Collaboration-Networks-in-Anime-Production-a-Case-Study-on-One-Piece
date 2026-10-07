@@ -1,0 +1,1156 @@
+episodio,fecha_emision,guion,arte,animacion,direccion,tv_rating,rank,n de paginas,votos,rating
+1,"['October 20, 1999']",['Junki Takegami'],['Tomoko Yoshida'],['Kazuya Hisada'],['Kōnosuke Uda'],12.4 ,6 ,19.0,55950.0,8.35
+2,"['November 17, 1999']",['Michiru Shimada'],['Miyuki Sato'],['Eisaku Inoue'],['Tetsuji Nakamura'],11.7 ,9 ,26.0,30659.0,8.4
+3,"['November 24, 1999']",['Michiru Shimada'],['Tomoko Yoshida'],['Kenji Yokoyama'],['Hidehiko Kadota'],13.3 ,7 ,41.0,11341.0,8.1
+4,"['December 8, 1999']",['Junki Takegami'],['Kunihiro Chida'],['Masayuki Takagi'],['Munehisa Sakai'],12.9 ,9 ,55.0,9380.0,8.32
+5,"['December 15, 1999']",['Junki Takegami'],['Tomoko Yoshida'],['Yuji Hakamada'],['Junichi Fujise'],13.5 ,8 ,54.0,7031.0,7.65
+6,"['December 29, 1999']",['Michiru Shimada'],['Miyuki Sato'],['Takeo Ide'],['Shigeyasu Yamauchi'],12.3 ,1 ,64.0,6633.0,7.77
+7,"['December 29, 1999']",['Michiru Shimada'],['Tomoko Yoshida'],['Kazuya Hisada'],['Tetsuji Nakamura'],12.3 ,1 ,58.0,6095.0,7.65
+8,"['December 29, 1999']",['Michiru Shimada'],['Kunihiro Chida'],['Kenji Yokoyama'],['Kōnosuke Uda'],12.3 ,1 ,51.0,5800.0,7.85
+9,"['January 12, 2000']",['Junki Takegami'],['Tomoko Yoshida'],['Eisaku Inoue'],['Hidehiko Kadota'],11.4 ,8 ,29.0,5368.0,7.36
+10,"['January 19, 2000']",['Junki Takegami'],['Miyuki Sato'],['Masayuki Takagi'],['Munehisa Sakai'],12.7 ,9 ,33.0,7885.0,7.76
+11,"['January 26, 2000']",['Junki Takegami'],['Tomoko Yoshida'],['Yuji Hakamada'],['Shigeyasu Yamauchi'],12.1 ,8 ,23.0,6374.0,7.68
+12,"['February 2, 2000']",['Junki Takegami'],['Kunihiro Chida'],['Takeo Ide'],['Junichi Fujise'],13.2 ,9 ,23.0,4584.0,7.65
+13,"['February 9, 2000']",['Junki Takegami'],['Tomoko Yoshida'],['Kenji Yokoyama'],['Hidehiko Kadota'],14.7 ,7 ,49.0,4312.0,7.63
+14,"['February 16, 2000']",['Junki Takegami'],['Miyuki Sato'],['Eisaku Inoue'],['Yukio Kaizawa'],12.8 ,10 ,34.0,4221.0,7.63
+15,"['February 23, 2000']",['Junki Takegami'],['Yuri Sanami'],['Masayuki Takagi'],['Kōnosuke Uda'],14.4 ,6 ,53.0,4151.0,7.55
+16,"['March 1, 2000']",['Junki Takegami'],['Kunihiro Chida'],['Noboru Koizumi'],['Munehisa Sakai'],13.9 ,8 ,28.0,4029.0,7.74
+17,"['March 8, 2000']",['Junki Takegami'],['Tomoko Yoshida'],['Yuji Hakamada'],['Hidehiko Kadota'],14.1 ,9 ,39.0,4486.0,8.2
+18,"['March 15, 2000']",['Michiru Shimada'],['Miyuki Sato'],['Tadayoshi Yamamuro'],['Junichi Fujise'],12.2 ,9 ,30.0,4125.0,6.94
+19,"['March 22, 2000']",['Junki Takegami'],['Makoto Suwada'],['Eisaku Inoue'],['Kōnosuke Uda'],14.3 ,4 ,13.0,6732.0,8.89
+20,"['April 12, 2000']",['Junki Takegami'],['Yuri Sanami'],['Kenji Yokoyama'],['Yukio Kaizawa'],15.4 (One,3 ,24.0,4067.0,7.76
+21,"['April 12, 2000']",['Junki Takegami'],['Kunihiro Chida'],['Masayuki Takagi'],['Hidehiko Kadota'],15.4 ,3 ,34.0,3706.0,7.73
+22,"['April 26, 2000']",['Junki Takegami'],['Tomoko Yoshida'],['Kazuya Hisada'],['Yoko Ikeda'],12.2 ,8 ,34.0,3652.0,7.65
+23,"['May 3, 2000']",['Junki Takegami'],['Miyuki Sato'],['Noboru Koizumi'],['Munehisa Sakai'],10.6 ,N/A ,33.0,3802.0,7.89
+24,"['May 10, 2000']",['Michiru Shimada'],['Yuri Sanami'],['Yuji Hakamada'],['Hidehiko Kadota'],11.9 ,8 ,37.0,7848.0,9.2
+25,"['May 17, 2000']",['Michiru Shimada'],['Kunihiro Chida'],['Takeo Ide'],['Yuji Endo'],13.7 ,5 ,52.0,3642.0,7.66
+26,"['May 24, 2000']",['Michiru Shimada'],['Tomoko Yoshida'],['Eisaku Inoue'],['Munehisa Sakai'],13.1 ,7 ,60.0,5274.0,8.82
+27,"['May 31, 2000']",['Junki Takegami'],['Miyuki Sato'],['Kenji Yokoyama'],['Kōnosuke Uda'],14.2 ,3 ,41.0,3426.0,7.66
+28,"['June 7, 2000']",['Junki Takegami'],['Yuri Sanami'],['Masayuki Takagi'],['Junji Shimizu'],12.1 ,9 ,36.0,3405.0,7.84
+29,"['June 21, 2000']",['Junki Takegami'],['Iwamitsu Itō'],['Kazuya Hisada'],['Junichi Fujise'],10.6 ,10 ,38.0,3615.0,8.01
+30,"['June 28, 2000']",['Junki Takegami'],['Tomoko Yoshida'],['Noboru Koizumi'],['Hidehiko Kadota'],13.2 ,6 ,29.0,4815.0,8.48
+31,"['July 12, 2000']",['Michiru Shimada'],['Miyuki Sato'],['Yuji Hakamada'],['Yuji Endo'],11.5 ,8 ,24.0,3392.0,7.74
+32,"['July 19, 2000']",['Michiru Shimada'],['Yuri Sanami'],['Takeo Ide'],['Munehisa Sakai'],13.1 ,2 ,33.0,3251.0,7.84
+33,"['July 19, 2000']",['Michiru Shimada'],['Kunihiro Chida'],['Eisaku Inoue'],['Yukio Kaizawa'],13.1 ,2 ,25.0,3355.0,7.89
+34,"['July 26, 2000']",['Michiru Shimada'],['Tomoko Yoshida'],['Kenji Yokoyama'],['Junji Shimizu'],12.7 ,5 ,29.0,3342.0,7.58
+35,"['August 2, 2000']",['Michiru Shimada'],['Kunihiro Chida'],['Masayuki Takagi'],['Hidehiko Kadota'],11.5 ,6 ,16.0,3808.0,8.28
+36,"['August 9, 2000']",['Michiru Shimada'],['Yuri Sanami'],['Kazuya Hisada'],['Kōnosuke Uda'],12.2 ,5 ,24.0,5963.0,9.0
+37,"['August 16, 2000']",['Michiru Shimada'],['Miyuki Sato'],['Hideaki Naniwa'],['Junichi Fujise'],11.4 ,5 ,26.0,7974.0,9.31
+38,"['August 23, 2000']",['Michiru Shimada'],['Tomoko Yoshida'],['Yuji Hakamada'],['Yuji Endo'],13.6 ,3 ,34.0,3782.0,8.25
+39,"['June 30, 2000']",['Michiru Shimada'],['Miyuki Sato'],['Kenji Yokoyama'],['Junji Shimizu'],14.4 ,5 ,38.0,3477.0,8.07
+40,"['September 6, 2000']",['Michiru Shimada'],['Yuri Sanami'],['Tadayoshi Yamamuro'],['Yoko Ikeda'],13.6 ,8 ,38.0,3610.0,8.1
+41,"['September 13, 2000']",['Michiru Shimada'],['Kunihiro Chida'],['Eisaku Inoue'],['Munehisa Sakai'],13.6 ,4 ,30.0,3429.0,8.17
+42,"['September 27, 2000']",['Michiru Shimada'],['Tomoko Yoshida'],['Masayuki Takagi'],['Hidehiko Kadota'],15.0 ,2 ,42.0,3374.0,8.11
+43,"['September 27, 2000']",['Michiru Shimada'],['Miyuki Sato'],['Kazuya Hisada'],['Junji Shimizu'],15.0 ,2 ,35.0,4646.0,8.74
+44,"['October 11, 2000']",['Michiru Shimada'],['Yuri Sanami'],['Yuji Hakamada'],['Kōnosuke Uda'],13.2 ,5 ,17.0,3585.0,8.1
+45,"['October 25, 2000']",['Junki Takegami'],['Kunihiro Chida'],['Hideaki Naniwa'],['Yoko Ikeda'],13.6 ,6 ,8.0,3494.0,7.89
+46,"['November 1, 2000']",['Junki Takegami'],['Tomoko Yoshida'],['Kenji Yokoyama'],['Munehisa Sakai'],14.4,6,13.0,3261.0,6.55
+47,"['November 8, 2000']",['Junki Takegami'],['Miyuki Sato'],['Kazuo Takigawa'],['Hidehiko Kadota'],13.5,8,17.0,3201.0,6.37
+48,"['November 22, 2000']",['Michiru Shimada'],['Yuri Sanami'],['Eisaku Inoue'],['Junichi Fujise'],15.7 ,8 ,5.0,3452.0,8.03
+49,"['November 22, 2000']",['Michiru Shimada'],['Kunihiro Chida'],['Tadayoshi Yamamuro'],['Yoshihiro Ueda'],15.7 ,5 ,14.0,3592.0,8.09
+50,"['November 29, 2000']",['Michiru Shimada'],['Tomoko Yoshida'],['Masayuki Takagi'],['Katsumi Tokoro'],15.2,5,0.0,3351.0,7.58
+51,"['December 6, 2000']",['Michiru Shimada'],['Miyuki Sato'],['Kazuya Hisada'],['Munehisa Sakai'],14.0,6,1.0,2849.0,7.12
+52,"['December 13, 2000']",['Michiru Shimada'],['Yuri Sanami'],['Yuji Hakamada'],['Hidehiko Kadota'],14.7 ,5 ,34.0,3400.0,8.35
+53,"['January 10, 2001']",['Michiru Shimada'],['Kunihiro Chida'],['Hideaki Naniwa'],['Ken Koyama'],14.1 ,6 ,20.0,3924.0,8.55
+54,"['January 17, 2001']",['Junki Takegami'],['Tomoko Yoshida'],['Kenji Yokoyama'],['Kōnosuke Uda'],14.1,8,0.0,2312.0,7.2
+55,"['January 24, 2001']",['Junki Takegami'],['Miyuki Sato'],['Masayuki Takagi'],['Harume Kosaka'],15.3,7,5.0,2307.0,6.93
+56,"['January 31, 2001']",['Junki Takegami'],['Yuri Sanami'],['Kazuya Hisada'],['Hidehiko Kadota'],14.7,6,0.0,2238.0,6.88
+57,"['February 7, 2001']",['Junki Takegami'],['Kunihiro Chida'],['Kazuo Takigawa'],['Yoko Ikeda'],14.6,8,0.0,2199.0,6.76
+58,"['February 21, 2001']",['Junki Takegami'],['Tomoko Yoshida'],['Tadayoshi Yamamuro'],['Munehisa Sakai'],16.6,5,0.0,2143.0,6.86
+59,"['February 21, 2001']",['Junki Takegami'],['Miyuki Sato'],['Yuji Hakamada'],['Junichi Fujise'],16.6,5,0.0,2145.0,7.02
+60,"['February 28, 2001']",['Junki Takegami'],['Yuri Sanami'],['Hideaki Naniwa'],['Yoshihiro Ueda'],16.3,4,0.0,2311.0,7.22
+61,"['March 7, 2001']",['Junki Takegami'],['Kunihiro Chida'],['Kenji Yokoyama'],['Hidehiko Kadota'],16.0,4,2.0,2604.0,7.75
+62,"['March 21, 2001']",['Michiru Shimada'],['Tomoko Yoshida'],['Masayuki Takagi'],['Kōnosuke Uda'],13.7,6,34.0,2708.0,7.68
+63,"['March 21, 2001']",['Michiru Shimada'],['Shōichirō Sugiura'],['Kazuya Hisada'],['Harume Kosaka'],13.7,6,34.0,2641.0,7.71
+64,"['April 15, 2001']",['Michiru Shimada'],['Miyuki Sato'],['Kazuo Takigawa'],['Yoko Ikeda'],17.2,2,27.0,2510.0,7.78
+65,"['April 15, 2001']",['Michiru Shimada'],['Yuri Sanami'],['Tadayoshi Yamamuro'],['Yoshihiro Ueda'],17.2,2,51.0,2745.0,8.3
+66,"['April 22, 2001']",['Michiru Shimada'],['Kunihiro Chida'],['Yuji Hakamada'],['Hidehiko Kadota'],14.1,6,36.0,2625.0,8.07
+67,"['April 29, 2001']",['Michiru Shimada'],['Tomoko Yoshida'],['Hideaki Naniwa'],['Kōnosuke Uda'],15.0,4,34.0,2652.0,8.06
+68,"['May 13, 2001']",['Michiru Shimada'],['Miyuki Sato'],['Kenji Yokoyama'],['Harume Kosaka'],14.6,3,25.0,2420.0,6.85
+69,"['May 20, 2001']",['Michiru Shimada'],['Yuri Sanami'],['Masayuki Takagi'],['Munehisa Sakai'],15.8,3,5.0,2436.0,7.09
+70,"['May 27, 2001']",['Junki Takegami'],['Shōichirō Sugiura'],['Kazuya Hisada'],['Yuji Endo'],13.1,6,19.0,2511.0,7.38
+71,"['June 3, 2001']",['Junki Takegami'],['Fumihiro Uchikawa'],['Takeo Ide'],['Hidehiko Kadota'],14.7,3,23.0,2422.0,7.5
+72,"['June 17, 2001']",['Junki Takegami'],['Tomoko Yoshida'],['Eisaku Inoue'],['Yoko Ikeda'],12.5,8,21.0,2387.0,7.43
+73,"['June 24, 2001']",['Junki Takegami'],['Kunihiro Chida'],['Yuji Hakamada'],['Yoshihiro Ueda'],15.3,4,34.0,2337.0,7.57
+74,"['July 15, 2001']",['Junki Takegami'],['Yuri Sanami'],['Hideaki Naniwa'],['Kōnosuke Uda'],15.6,3,34.0,2369.0,7.74
+75,"['August 12, 2001']",['Junki Takegami'],['Miyuki Sato'],['Kenji Yokoyama'],['Junichi Fujise'],12.8,6,31.0,2373.0,7.63
+76,"['August 19, 2001']",['Junki Takegami'],['Tomoko Yoshida'],['Masayuki Takagi'],['Harume Kosaka'],14.9,2,36.0,2321.0,7.74
+77,"['August 19, 2001']",['Junki Takegami'],['Fumihiro Uchikawa'],['Kazuya Hisada'],['Yuji Endo'],14.9,2,37.0,2394.0,7.71
+78,"['August 26, 2001']",['Junki Takegami'],['Yuri Sanami'],['Noboru Koizumi'],['Yoshihiro Ueda'],15.6,3,12.0,2336.0,7.38
+79,"['September 2, 2001']",['Junki Takegami'],['Miyuki Sato'],['Eisaku Inoue'],['Junji Shimizu'],13.1,5,49.0,2264.0,7.69
+80,"['September 9, 2001']",['Michiru Shimada'],['Shōichirō Sugiura'],['Yuji Hakamada'],['Munehisa Sakai'],16.1,4,15.0,2387.0,7.77
+81,"['September 16, 2001']",['Michiru Shimada'],['Tomoko Yoshida'],['Hideaki Naniwa'],['Kōnosuke Uda'],15.5,5,24.0,2262.0,7.7
+82,"['October 7, 2001']",['Michiru Shimada'],['Kunihiro Chida'],['Kenji Yokoyama'],['Harume Kosaka'],13.5,2,36.0,2238.0,7.69
+83,"['October 7, 2001']",['Michiru Shimada'],['Yuri Sanami'],['Masayuki Takagi'],['Hidehiko Kadota'],13.5,2,27.0,2813.0,8.2
+84,"['October 21, 2001']",['Michiru Shimada'],['Miyuki Sato'],['Kazuya Hisada'],['Daisuke Nishio'],14.5,6,22.0,2424.0,8.12
+85,"['October 28, 2001']",['Michiru Shimada'],['Tomoko Yoshida'],['Noboru Koizumi'],['Yoshihiro Ueda'],15.2,5,17.0,3243.0,8.56
+86,"['November 4, 2001']",['Michiru Shimada'],['Kunihiro Chida'],['Eisaku Inoue'],['Kōnosuke Uda'],16.0,6,43.0,6136.0,9.4
+87,"['November 11, 2001']",['Michiru Shimada'],['Yuri Sanami'],['Takeo Ide'],['Junji Shimizu'],14.8,6,29.0,2646.0,8.2
+88,"['November 18, 2001']",['Michiru Shimada'],['Miyuki Sato'],['Hideaki Naniwa'],['Hidehiko Kadota'],15.3,5,23.0,2308.0,7.97
+89,"['November 25, 2001']",['Michiru Shimada'],['Tomoko Yoshida'],['Kenji Yokoyama'],['Junichi Fujise'],15.8,4,36.0,2319.0,7.99
+90,"['December 2, 2001']",['Michiru Shimada'],['Kunihiro Chida'],['Masayuki Takagi'],['Munehisa Sakai'],15.6,3,26.0,4470.0,8.92
+91,"['December 9, 2001']",['Michiru Shimada'],['Yuri Sanami'],['Kazuya Hisada'],['Harume Kosaka'],16.3,3,25.0,2509.0,8.1
+92,"['December 9, 2001']",['Junki Takegami'],['Fumihiro Uchikawa'],['Noboru Koizumi'],['Yuji Endo'],16.3,3,36.0,2301.0,7.8
+93,"['December 16, 2001']",['Junki Takegami'],['Tomoko Yoshida'],['Eisaku Inoue'],['Kōnosuke Uda'],14.3,4,1.0,2239.0,7.46
+94,"['December 23, 2001']",['Michiru Shimada'],['Miyuki Sato'],['Takeo Ide'],['Junji Shimizu'],14.0,4,14.0,4643.0,8.91
+95,"['January 6, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Hideaki Naniwa'],['Hidehiko Kadota'],19.1,1,2.0,2626.0,8.36
+96,"['January 13, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Makoto Suwada']",['Kenji Yokoyama'],['Yoko Ikeda'],15.6,3,17.0,2213.0,7.5
+97,"['January 20, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kazuya Hisada'],['Harume Kosaka'],14.6,4,12.0,2155.0,7.41
+98,"['January 27, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Daisuke Nishio'],15.7,6,1.0,2046.0,7.08
+99,"['February 3, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Makoto Suwada']",['Eisaku Inoue'],['Munehisa Sakai'],16.7,5,0.0,2003.0,7.08
+100,"['February 10, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Takeo Ide'],['Yuji Endo'],13.6,5,23.0,3414.0,7.68
+101,"['February 17, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Hidehiko Kadota'],13.9,7,1.0,2289.0,7.08
+102,"['February 24, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Makoto Suwada']",['Hideaki Naniwa'],['Kōnosuke Uda'],16.4,3,0.0,2136.0,7.35
+103,"['March 3, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Harume Kosaka'],15.2,2,16.0,2328.0,7.56
+104,"['March 10, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Eisaku Inoue'],['Ken Koyama'],13.8,8,31.0,2429.0,8.03
+105,"['March 17, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Makoto Suwada']","['Naoki Tate', 'Masahiro Shimanuki']",['Yuji Endo'],14.3,5,34.0,2262.0,7.9
+106,"['March 24, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Takeo Ide'],['Hidehiko Kadota'],14.2,6,34.0,2326.0,8.13
+107,"['April 14, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Kōnosuke Uda'],14.3,4,32.0,2496.0,8.13
+108,"['April 21, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Makoto Suwada']",['Hideaki Naniwa'],['Harume Kosaka'],14.6,5,35.0,2417.0,8.26
+109,"['April 28, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Daisuke Nishio'],14.4,5,29.0,2923.0,8.4
+110,"['May 5, 2002']",['Junki Takegami'],['Yuri Sanami'],['Eisaku Inoue'],['Yuji Endo'],11.4,4,38.0,5245.0,9.06
+111,"['May 12, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Natsuko Makiyo'],['Junichi Fujise'],13.7,6,32.0,2447.0,8.0
+112,"['May 19, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']","['Naoki Tate', 'Masahiro Shimanuki']",['Munehisa Sakai'],14.4,4,34.0,2550.0,8.13
+113,"['June 2, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Hidehiko Kadota'],13.4,3,28.0,2132.0,7.87
+114,"['June 9, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Noboru Koizumi'],['Kōji Tanaka'],16.0,3,24.0,2171.0,7.89
+115,"['June 16, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Harume Kosaka'],11.3,6,31.0,2397.0,8.05
+116,"['June 23, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Kunihiro Chida']",['Kenji Yokoyama'],['Ken Koyama'],13.6,3,40.0,2036.0,8.02
+117,"['June 30, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Hideaki Naniwa'],['Yoko Ikeda'],11.7,6,29.0,2035.0,7.93
+118,"['July 14, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Yuji Endo'],14.1,3,23.0,1926.0,7.85
+119,"['July 21, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Toshiaki Marumori']",['Eisaku Inoue'],['Munehisa Sakai'],12.6,5,35.0,4924.0,9.18
+120,"['August 4, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Hidehiko Kadota'],13.3,4,34.0,2080.0,8.04
+121,"['August 11, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Natsuko Makiyo'],['Harume Kosaka'],11.2,7,33.0,2479.0,8.45
+122,"['August 18, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Toshiaki Marumori']",['Takeo Ide'],['Junichi Fujise'],12.9,3,33.0,3364.0,8.8
+123,"['August 25, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kenji Yokoyama'],['Junji Shimizu'],12.4,6,34.0,2077.0,8.29
+124,"['September 1, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takayuki Shimura'],['Yuji Endo'],11.5,8,34.0,1989.0,8.17
+125,"['September 8, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Toshiaki Marumori']",['Hideaki Naniwa'],['Hidehiko Kadota'],13.4,3,37.0,4069.0,9.02
+126,"['September 15, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Kunihiro Chida']",['Eisaku Inoue'],['Munehisa Sakai'],13.2,5,35.0,7287.0,9.49
+127,"['October 6, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Harume Kosaka'],14.1,3,34.0,2092.0,8.38
+128,"['October 6, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Toshiaki Marumori']",['Noboru Koizumi'],['Junji Shimizu'],14.1,3,38.0,2067.0,8.18
+129,"['October 20, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kazuya Hisada'],['Daisuke Nishio'],12.6,5,34.0,4814.0,9.22
+130,"['October 27, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takayuki Shimura'],['Yoko Ikeda'],13.8,3,28.0,3213.0,8.67
+131,"['November 3, 2002']",['Michiru Shimada'],"['Miyuki Sato', 'Toshiaki Marumori']",['Kenji Yokoyama'],['Yuji Endo'],11.6,8,0.0,1646.0,7.31
+132,"['November 10, 2002']",['Ryōta Yamaguchi'],"['Miyuki Sato', 'Kunihiro Chida']",['Takeo Ide'],['Harume Kosaka'],13.5,5,0.0,1561.0,6.81
+133,"['November 17, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Hidehiko Kadota'],14.2,4,0.0,1541.0,7.0
+134,"['November 24, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Toshiaki Marumori']",['Hideaki Naniwa'],['Munehisa Sakai'],12.8,4,0.0,1535.0,7.03
+135,"['December 1, 2002']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Naoki Tate'],['Junji Shimizu'],11.8,8,0.0,1533.0,7.11
+136,"['December 8, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Junichi Fujise'],13.8,4,0.0,1499.0,6.78
+137,"['December 15, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Kenji Yokoyama'],['Yuji Endo'],12.4,5,0.0,1462.0,6.84
+138,"['December 22, 2002']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Takeo Ide'],['Yoko Ikeda'],12.1,4,0.0,1469.0,6.8
+139,"['January 5, 2003']",['Ryōta Yamaguchi'],['Tomoko Yoshida'],['Masayuki Takagi'],['Hidehiko Kadota'],16.2,1,0.0,1443.0,6.92
+140,"['January 12, 2003']",['Ryōta Yamaguchi'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Hideaki Naniwa'],['Munehisa Sakai'],10.7,4,0.0,1476.0,6.97
+141,"['January 19, 2003']",['Ryōta Yamaguchi'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Naoki Tate'],['Ken Koyama'],13.3,5,0.0,1405.0,6.83
+142,"['January 26, 2003']",['Ryōta Yamaguchi'],"['Miyuki Sato', 'Makoto Suwada']",['Kazuya Hisada'],['Yuji Endo'],14.0,5,0.0,1417.0,6.78
+143,"['February 2, 2003']",['Ryōta Yamaguchi'],"['Miyuki Sato', 'Toshiaki Marumori']",['Kenji Yokoyama'],['Junichi Fujise'],14.3,5,3.0,1504.0,7.51
+144,"['February 9, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Hidehiko Kadota'],13.9,4,36.0,1859.0,7.45
+145,"['February 16, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Masayuki Takagi'],['Hiroyuki Kakudō'],13.6,4,28.0,1885.0,7.7
+146,"['February 23, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Toshiaki Marumori']",['Hideaki Naniwa'],['Yoko Ikeda'],19.1,1,45.0,2078.0,8.21
+147,"['March 9, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Naoki Tate'],['Junichi Fujise'],13.8,5,33.0,1920.0,7.85
+148,"['March 16, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Junji Shimizu'],11.9,7,34.0,1775.0,7.73
+149,"['March 23, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Yūki Kinoshita'],['Yuji Endo'],14.1,4,17.0,1715.0,7.6
+150,"['April 13, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Hidehiko Kadota'],13.4,6,25.0,2050.0,8.26
+151,"['April 20, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Ken Koyama'],14.2,5,29.0,5668.0,9.33
+152,"['April 27, 2003']",['Michiru Shimada'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Hideaki Naniwa'],['Hiroyuki Kakudō'],13.9,5,17.0,2118.0,8.5
+153,"['May 4, 2003']",['Michiru Shimada'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Junji Shimizu'],12.1,4,33.0,1772.0,7.92
+154,"['May 11, 2003']",['Ryōta Yamaguchi'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Yoko Ikeda'],12.6,5,31.0,1742.0,7.67
+155,"['May 18, 2003']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Yūki Kinoshita'],['Hidehiko Kadota'],13.6,6,18.0,1740.0,7.65
+156,"['June 8, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kenji Yokoyama'],['Junichi Fujise'],12.8,4,13.0,1693.0,7.71
+157,"['June 15, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Masayuki Takagi'],['Ken Koyama'],11.9,6,15.0,1661.0,7.54
+158,"['June 22, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Hideaki Naniwa'],['Hiroyuki Kakudō'],12.9,6,17.0,1697.0,7.78
+159,"['July 6, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Takeo Ide'],['Junji Shimizu'],12.4,7,15.0,1688.0,7.76
+160,"['July 13, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Hidehiko Kadota'],12.6,6,18.0,1720.0,7.69
+161,"['July 20, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Katsumi Tokoro'],10.1,8,12.0,1667.0,7.5
+162,"['August 3, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Noboru Koizumi'],['Munehisa Sakai'],10.0,9,18.0,1655.0,7.83
+163,"['August 10, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Yūki Kinoshita'],['Ken Koyama'],10.2,6,31.0,1647.0,7.79
+164,"['August 17, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Kōnosuke Uda'],12.9,5,15.0,1730.0,8.04
+165,"['August 24, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Kunihiro Chida']",['Masayuki Takagi'],['Junichi Fujise'],10.7,5,17.0,1643.0,7.8
+166,"['September 7, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Hideaki Naniwa'],['Yoko Ikeda'],12.4,5,17.0,1695.0,7.61
+167,"['September 21, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Shigeyasu Yamauchi'],13.2,4,16.0,1620.0,7.63
+168,"['October 12, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Eisaku Inoue'],['Hiroyuki Kakudō'],8.9,7,17.0,1650.0,7.5
+169,"['October 19, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Yūki Kinoshita'],['Munehisa Sakai'],12.4,3,10.0,1708.0,7.9
+170,"['October 19, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Ken Koyama'],12.4,3,7.0,1803.0,8.08
+171,"['October 26, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Noboru Koizumi'],['Katsumi Tokoro'],10.4,8,15.0,1675.0,7.75
+172,"['November 2, 2003']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Hidehiko Kadota'],12.4,3,2.0,1674.0,7.87
+173,"['November 9, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Kōnosuke Uda'],14.3,2,13.0,1663.0,8.0
+174,"['November 16, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Naoki Tate'],['Yoko Ikeda'],13.8,2,28.0,1723.0,8.09
+175,"['December 21, 2003']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Eisaku Inoue'],['Junichi Fujise'],11.6,5,28.0,1679.0,7.91
+176,"['January 11, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Munehisa Sakai'],10.7,4,5.0,1708.0,8.05
+177,"['January 18, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Ken Koyama'],12.4,5,17.0,1665.0,7.93
+178,"['January 25, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Yūki Kinoshita'],['Hidehiko Kadota'],11.6,6,9.0,2158.0,8.37
+179,"['February 1, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Katsumi Tokoro'],12.4,7,4.0,1770.0,8.21
+180,"['February 8, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Yukio Kaizawa'],12.8,5,17.0,3524.0,8.91
+181,"['February 15, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Yoko Ikeda'],11.8,7,5.0,1758.0,8.33
+182,"['February 22, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Kōnosuke Uda'],11.9,6,1.0,3696.0,9.04
+183,"['February 29, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Takahiro Imamura'],11.4,7,17.0,3571.0,9.02
+184,"['March 7, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Yūki Kinoshita'],['Ken Koyama'],11.9,5,17.0,1725.0,8.13
+185,"['March 14, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Munehisa Sakai'],9.9,7,12.0,3013.0,8.73
+186,"['March 21, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Hidehiko Kadota'],11.3,6,1.0,1585.0,7.92
+187,"['March 28, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Hiroyuki Kakudō'],13.7,1,42.0,1682.0,7.81
+188,"['March 28, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Yūki Kinoshita'],['Takahiro Imamura'],13.7,1,19.0,1700.0,7.93
+189,"['April 4, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Katsumi Tokoro'],12.3,4,15.0,3790.0,9.11
+190,"['April 25, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Ken Koyama'],9.8,7,17.0,1709.0,8.14
+191,"['May 2, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Yoko Ikeda'],10.2,5,9.0,1661.0,8.29
+192,"['May 9, 2004']",['Hirohiko Kamisaka'],['Tomoko Yoshida'],['Kazuya Hisada'],['Hidehiko Kadota'],11.0,5,15.0,4210.0,9.31
+193,"['May 23, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Hideaki Naniwa'],['Hiroyuki Kakudō'],12.0,4,17.0,1812.0,8.15
+194,"['June 6, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Junichi Fujise'],11.7,4,17.0,1681.0,8.2
+195,"['June 13, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Munehisa Sakai'],10.0,7,17.0,1713.0,8.0
+196,"['June 20, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Noboru Koizumi'],['Takahiro Imamura'],12.2,3,0.0,1394.0,7.42
+197,"['July 4, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Ken Koyama'],10.4,6,0.0,1358.0,7.56
+198,"['July 11, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Hiroyuki Kakudō'],11.7,4,0.0,1342.0,7.35
+199,"['July 18, 2004']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Hideaki Naniwa'],['Mamoru Hosoda'],9.9,9,0.0,1393.0,7.68
+200,"['August 8, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Munehisa Sakai'],9.2,7,0.0,1623.0,7.84
+201,"['September 5, 2004']",['Michiru Shimada'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Hidehiko Kadota'],9.4,8,0.0,1308.0,7.54
+202,"['September 12, 2004']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Noboru Koizumi'],['Kōnosuke Uda'],11.1,6,0.0,1279.0,7.61
+203,"['September 19, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Hiroyuki Kakudō'],11.2,5,2.0,1304.0,7.27
+204,"['October 3, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Katsumi Tokoro'],15.2,1,0.0,1236.0,7.4
+205,"['October 3, 2004']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Hideaki Naniwa'],['Ken Koyama'],15.2,1,0.0,1264.0,7.43
+206,"['October 10, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Takahiro Imamura'],10.8,4,0.0,1444.0,7.88
+207,"['October 31, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Junichi Fujise'],10.8,7,5.0,1635.0,7.48
+208,"['November 7, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Hiroyuki Kakudō'],11.7,5,25.0,1491.0,7.24
+209,"['November 14, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Hidehiko Kadota'],13.2,5,20.0,1479.0,7.29
+210,"['November 21, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Ken Koyama'],11.0,7,34.0,1485.0,7.21
+211,"['November 28, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Hideaki Naniwa'],['Takahiro Imamura'],12.4,6,17.0,1479.0,7.33
+212,"['December 5, 2004']",['Junki Takegami'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Katsumi Tokoro'],12.0,6,17.0,1498.0,7.7
+213,"['December 12, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Munehisa Sakai'],11.4,7,0.0,1365.0,7.11
+214,"['December 19, 2004']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Noboru Koizumi'],['Hiroyuki Kakudō'],13.8,1,0.0,1351.0,7.51
+215,"['January 9, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Ken Koyama'],11.0,4,1.0,1439.0,6.74
+216,"['January 9, 2005']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Hidehiko Kadota'],11.0,4,0.0,1409.0,6.52
+217,"['January 16, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kenji Yokoyama'],['Yoko Ikeda'],11.8,3,24.0,1466.0,6.98
+218,"['January 23, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Hideaki Naniwa'],['Hiroyuki Kakudō'],11.9,5,34.0,1472.0,7.04
+219,"['January 30, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Naoki Tate'],['Takahiro Imamura'],10.9,7,19.0,1435.0,7.46
+220,"['February 6, 2005']","['Junki Takegami', 'Hito Koyama(assistant)']","['Miyuki Sato', 'Kunihiro Chida']",['Eisaku Inoue'],['Munehisa Sakai'],11.2,6,0.0,1343.0,7.22
+221,"['February 13, 2005']","['Hirohiko Kamisaka', 'Hito Koyama(assistant)']","['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Katsumi Tokoro'],10.6,6,0.0,1257.0,7.11
+222,"['February 20, 2005']","['Yoshiyuki Suga', 'Hito Koyama(assistant)']","['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Ken Koyama'],10.9,6,0.0,1153.0,6.83
+223,"['February 27, 2005']","['Junki Takegami', 'Hito Koyama(assistant)']","['Miyuki Sato', 'Fumihiro Uchikawa']",['Kenji Yokoyama'],['Hidehiko Kadota'],10.9,5,0.0,1164.0,7.17
+224,"['March 6, 2005']","['Hirohiko Kamisaka', 'Hito Koyama (assistant)']","['Miyuki Sato', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Takahiro Imamura'],11.5,6,0.0,1171.0,6.95
+225,"['March 13, 2005']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Tadami Shimokawa']",['Naoki Tate'],['Yoko Ikeda'],10.5,7,1.0,1232.0,6.52
+226,"['March 20, 2005']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Katsumi Tokoro'],10.5,6,1.0,1294.0,6.81
+227,"['March 27, 2005']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Hidehiko Kadota'],10.4,4,29.0,3682.0,8.92
+228,"['March 27, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Yoko Ikeda'],10.4,4,28.0,1993.0,8.32
+229,"['April 17, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Tadami Shimokawa']",['Masayuki Takagi'],['Munehisa Sakai'],12.5,4,25.0,1619.0,7.8
+230,"['April 24, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Kōnosuke Uda'],13.2,4,6.0,1610.0,7.84
+231,"['May 1, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Yuji Kondou'],['Yoshio Mukainakano'],11.0,6,3.0,1535.0,7.8
+232,"['May 15, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Kōnosuke Uda'],11.4,5,3.0,1528.0,7.88
+233,"['May 22, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Tadami Shimokawa']",['Naoki Tate'],['Hiroaki Miyamoto'],12.2,4,26.0,1622.0,8.1
+234,"['June 5, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Kenji Yokoyama'],['Hidehiko Kadota'],10.0,6,25.0,3967.0,9.13
+235,"['June 12, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Masayuki Takagi'],['Katsumi Tokoro'],12.0,2,21.0,5517.0,9.42
+236,"['June 19, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Munehisa Sakai'],11.9,4,9.0,11235.0,9.69
+237,"['July 3, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Tadami Shimokawa']",['Eisaku Inoue'],['Yoko Ikeda'],11.6,4,29.0,1540.0,7.89
+238,"['July 10, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Yuji Kondou'],['Yoshio Mukainakano'],10.2,7,3.0,1582.0,8.16
+239,"['July 31, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Morio Hatano'],9.1,5,4.0,1498.0,8.0
+240,"['August 7, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Hiroaki Miyamoto'],8.7,5,9.0,1698.0,8.19
+241,"['August 14, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Tadami Shimokawa']",['Masayuki Takagi'],['Hidehiko Kadota'],9.4,4,20.0,1485.0,7.91
+242,"['August 21, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Kenji Yokoyama'],['Katsumi Tokoro'],10.4,3,32.0,1606.0,8.27
+243,"['September 4, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Kōnosuke Uda'],10.2,5,1.0,3792.0,9.12
+244,"['September 11, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Eisaku Inoue'],['Munehisa Sakai'],12.6,3,18.0,3390.0,9.02
+245,"['September 18, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Tadami Shimokawa']","['Kouji Sugimoto', 'Kiyoshi Matsushita']",['Hidehiko Kadota'],10.0,6,15.0,2206.0,8.59
+246,"['October 23, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Yoko Ikeda'],16.7,1,32.0,1582.0,8.15
+247,"['October 30, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Morio Hatano'],13.3,3,1.0,1653.0,8.33
+248,"['November 6, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Hiroaki Miyamoto'],11.2,3,10.0,1614.0,8.36
+249,"['November 13, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Naoki Tate'],['Katsumi Tokoro'],11.7,5,4.0,1616.0,8.32
+250,"['November 27, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Tadami Shimokawa']",['Kenji Yokoyama'],['Ken Koyama'],9.8,6,30.0,3568.0,8.98
+251,"['November 27, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Munehisa Sakai'],9.8,6,4.0,3001.0,8.93
+252,"['December 4, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Yukihiko Nakao'],10.3,3,24.0,1571.0,8.17
+253,"['December 11, 2005']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kazuya Hisada'],['Yoko Ikeda'],10.0,6,9.0,1502.0,7.99
+254,"['January 22, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Tadami Shimokawa']",['Naoki Tate'],['Morio Hatano'],10.7,3,17.0,1629.0,8.28
+255,"['January 29, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Ken Koyama'],11.3,3,20.0,1536.0,8.09
+256,"['February 5, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Hiroaki Miyamoto'],11.3,3,15.0,1474.0,8.0
+257,"['February 26, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Masayuki Takagi'],['Yukihiko Nakao'],10.9,3,21.0,1561.0,8.2
+258,"['March 5, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kazuya Hisada'],['Munehisa Sakai'],11.4,5,17.0,1601.0,8.23
+259,"['March 12, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Noboru Koizumi'],['Ken Koyama'],9.7,6,2.0,1435.0,7.5
+260,"['March 19, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Yoko Ikeda'],8.7,6,22.0,1515.0,7.95
+261,"['April 2, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Kazuya Hisada'],['Morio Hatano'],13.9,1,15.0,1496.0,8.07
+262,"['April 16, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Kenji Yokoyama'],['Yukihiko Nakao'],9.9,4,24.0,1813.0,8.4
+263,"['April 30, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Katsumi Ishizuka'],['Hiroaki Miyamoto'],11.1,5,16.0,1546.0,8.15
+264,"['May 21, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Munehisa Sakai'],9.2,6,19.0,1575.0,8.25
+265,"['June 4, 2006']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Hiroyuki Kakudō'],10.5,5,23.0,1474.0,8.0
+266,"['June 11, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Noboru Koizumi'],['Yoko Ikeda'],10.2,5,19.0,1426.0,7.98
+267,"['June 18, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Yoshihiro Ueda'],10.6,4,25.0,1464.0,8.07
+268,"['June 25, 2006']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Fumihiro Uchikawa']",['Kazuya Hisada'],['Hiroaki Miyamoto'],10.2,4,16.0,1459.0,8.06
+269,"['June 25, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Masayuki Takagi'],['Katsumi Tokoro'],10.2,4,14.0,1522.0,8.16
+270,"['July 2, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Takahiro Imamura'],11.1,3,1.0,2612.0,8.73
+271,"['July 9, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Yoshihiro Ueda'],11.5,3,11.0,1613.0,8.22
+272,"['July 23, 2006']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Kunihiro Chida']",['Kenji Yokoyama'],['Hiroyuki Kakudō'],9.4,4,25.0,2114.0,8.56
+273,"['July 30, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Katsumi Ishizuka'],['Munehisa Sakai'],9.1,4,24.0,4400.0,9.33
+274,"['August 6, 2006']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Yoko Ikeda'],10.1,3,17.0,6034.0,9.51
+275,"['August 13, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Noboru Koizumi'],['Hiroaki Miyamoto'],8.4,5,33.0,3777.0,9.03
+276,"['September 10, 2006']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Toru Yamada'],10.3,6,34.0,3709.0,9.11
+277,"['September 24, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Takahiro Imamura'],13.2,1,34.0,4909.0,9.4
+278,"['September 24, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kunihiro Chida']",['Naoki Tate'],['Yoshihiro Ueda'],13.2,1,34.0,22054.0,9.7
+279,"['October 1, 2006']",['N/A'],"['Ryūji Yoshiike', 'Miho Shiraishi']",['Kazuya Hisada'],['Munehisa Sakai'],6.7,4,0.0,1221.0,6.43
+280,"['October 8, 2006']",['N/A'],"['Ryūji Yoshiike', 'Miho Shiraishi']",['Naoki Tate'],"['Munehisa Sakai', 'Yoko Ikeda']",6.2,6,0.0,1186.0,6.04
+281,"['October 15, 2006']",['N/A'],"['Ryūji Yoshiike', 'Miho Shiraishi']",['Takeo Ide'],"['Munehisa Sakai', 'Yoko Ikeda']",6.6,3,0.0,1164.0,6.18
+282,"['October 22, 2006']",['N/A'],"['Ryūji Yoshiike', 'Miyuki Sato']",['Noboru Koizumi'],"['Munehisa Sakai', 'Yoko Ikeda']",6.5,4,0.0,1130.0,6.02
+283,"['October 29, 2006']",['N/A'],['Miyuki Sato'],['Takeo Ide'],"['Munehisa Sakai', 'Yoko Ikeda']",6.4,9,0.0,1160.0,5.97
+284,"['November 5, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Eisaku Inoue'],['Hiroyuki Kakudō'],6.9,7,18.0,1598.0,8.18
+285,"['November 12, 2006']",['Koga Naoki'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Takahiro Imamura'],6.3,8,15.0,1458.0,7.97
+286,"['November 19, 2006']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Yoshihiro Ueda'],5.6,8,22.0,1454.0,8.04
+287,"['November 26, 2006']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Masayuki Takagi'],['Hiroaki Miyamoto'],8.1,6,24.0,1432.0,7.95
+288,"['December 3, 2006']",['Koga Naoki'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Yoko Ikeda'],5.1,9,20.0,1497.0,8.27
+289,"['December 10, 2006']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Hiroyuki Kakudō'],7.4,8,25.0,1519.0,8.00
+290,"['December 17, 2006']",['Koga Naoki'],"['Miyuki Sato', 'Kunihiro Chida']",['Katsumi Ishizuka'],['Yoshihiro Ueda'],7.3,4,19.0,2485.0,8.60
+291,"['December 24, 2006']",['Yoshiyuki Suga'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Munehisa Sakai'],5.7,6,0.0,1239.0,6.01
+292,"['January 7, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Yoko Ikeda'],6.2,5,0.0,1284.0,5.84
+293,"['January 14, 2007']",['Yoshiyuki Suga'],"['Miho Shiraishi', 'Fumihiro Uchikawa']",['Kenji Yokoyama'],['Hiroaki Miyamoto'],7.4,6,22.0,1531.0,7.90
+294,"['January 21, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Hiroyuki Kakudō'],7.9,6,17.0,1556.0,8.10
+295,"['January 28, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kunihiro Chida']",['Noboru Koizumi'],['Yoshihiro Ueda'],7.8,6,13.0,1418.0,7.88
+296,"['February 4, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Masahiro Hosoda'],6.8,10,18.0,1527.0,8.25
+297,"['February 11, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Katsumi Tokoro'],7.9,7,25.0,1509.0,8.34
+298,"['February 25, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Kunihiro Chida']",['Katsumi Ishizuka'],['Hiroyuki Kakudō'],7.4,9,26.0,2310.0,8.68
+299,"['March 4, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Hiroaki Miyamoto'],7.7,7,25.0,1744.0,8.39
+300,"['March 11, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Yoko Ikeda'],8.1,6,24.0,4206.0,9.15
+301,"['March 18, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Masayuki Takagi'],['Yoshihiro Ueda'],8.0,6,20.0,3885.0,9.22
+302,"['March 25, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Kunihiro Chida']","['Yukari Kobayashi', 'Shinichi Suzuki']",['Akira Shimizu'],7.4,5,13.0,1622.0,8.35
+303,"['April 1, 2007']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Michiyo Kawasaki', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Munehisa Sakai'],7.8,4,0.0,1242.0,6.11
+304,"['April 8, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Fumihiro Uchikawa']",['Naoki Tate'],['Makoto Sonoda'],8.2,4,16.0,3628.0,9.01
+305,"['April 15, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Kunihiro Chida']",['Kenji Yokoyama'],['Katsumi Tokoro'],8.9,4,17.0,3393.0,8.92
+306,"['April 22, 2007']",['Yoshiyuki Suga'],"['Miho Shiraishi', 'Kumiko Fukuzawa']",['Kazuyuki Igai'],['Keisuke Ōnishi'],9.7,4,17.0,1545.0,8.28
+307,"['April 29, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Hiroyuki Kakudō'],10.5,5,1.0,1826.0,8.42
+308,"['May 6, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Masayuki Takagi'],['Hiroyuki Satō'],10.5,4,18.0,3547.0,9.03
+309,"['May 13, 2007']",['Koga Naoki'],"['Miho Shiraishi', 'Kumiko Fukuzawa']","['Katsumi Ishizuka', 'Naoki Tate']",['Makoto Sonoda'],7.7,8,19.0,23017.0,9.7
+310,"['May 20, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Yoshihiro Ueda'],9.5,5,17.0,3916.0,9.2
+311,"['May 27, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Naoki Tate'],['Hiroyuki Satō'],9.3,5,17.0,3612.0,9.04
+312,"['June 3, 2007']",['Yoshiyuki Suga'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Eisaku Inoue'],['Katsumi Tokoro'],10.1,3,17.0,22979.0,9.7
+313,"['June 10, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kenji Yokoyama'],['Hiroaki Miyamoto'],9.9,4,17.0,2606.0,8.78
+314,"['June 17, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Takeo Ide'],['Hiroyuki Kakudō'],8.8,4,17.0,3928.0,9.22
+315,"['June 24, 2007']",['Koga Naoki'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Masahiro Shimanuki'],['Yoko Ikeda'],10.4,5,16.0,1897.0,8.49
+316,"['July 1, 2007']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Masayuki Takagi'],['Takahiro Imamura'],9.1,6,21.0,3991.0,9.2
+317,"['July 8, 2007']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Hiromitsu Shiozaki']","['Kenji Yokoyama', 'Takeo Ide', 'Masahiro Shimanuki', 'Katsumi Ishizuka']",['Yoshihiro Ueda'],8.4,7,0.0,1131.0,6.53
+318,"['July 15, 2007']",['Koga Naoki'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Kazuyuki Igai'],['Keisuke Ōnishi'],10.2,4,0.0,1217.0,6.62
+319,"['July 22, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Makoto Sonoda'],9.0,6,2.0,1116.0,7.04
+320,"['August 19, 2007']",['Yoshiyuki Suga'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Hiroyuki Kakudō'],9.8,5,10.0,1601.0,8.31
+321,"['August 26, 2007']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Kazuya Hisada'],['Naoyuki Itō'],7.3,8,17.0,1463.0,8.13
+322,"['September 2, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Takeo Ide'],['Yoshihiro Ueda'],7.3,8,17.0,1517.0,8.23
+323,"['September 9, 2007']",['Yoshiyuki Suga'],"['Miho Shiraishi', 'Kumiko Fukuzawa']",['Masahiro Shimanuki'],['Katsumi Tokoro'],8.4,5,17.0,1776.0,8.66
+324,"['September 16, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Masayuki Takagi'],['Tetsuya Endō'],9.9,6,25.0,1664.0,8.41
+325,"['September 23, 2007']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Eisaku Inoue'],['Yoko Ikeda'],8.8,6,26.0,4329.0,9.29
+326,"['October 14, 2007']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Kumiko Fukuzawa']","['Naoki Tate', 'Naoki Murakami']",['Munehisa Sakai'],8.3,3,1.0,1112.0,7.08
+327,"['October 21, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Kenji Yokoyama'],['Hiroaki Miyamoto'],8.7,4,0.0,1035.0,6.59
+328,"['October 28, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Kazuya Hisada'],['Takahiro Imamura'],6.5,8,0.0,1029.0,6.68
+329,"['November 4, 2007']",['Takuya Masumoto'],"['Miho Shiraishi', 'Kumiko Fukuzawa']",['Takeo Ide'],['Hiroyuki Satō'],7.0,6,0.0,1015.0,6.74
+330,"['November 11, 2007']",['Tsuyoshi Sakurai'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Masayuki Fujita'],['Sumio Watanabe'],8.2,5,0.0,1015.0,6.57
+331,"['November 18, 2007']",['Isao Murayama'],"['Miyuki Sato', 'Shouji Tokiwa']",['Masahiro Shimanuki'],['Hiroyuki Satō'],8.5,6,0.0,983.0,6.65
+332,"['November 25, 2007']",['Yōichi Takahashi'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Katsumi Tokoro'],9.1,4,0.0,1003.0,6.76
+333,"['December 2, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Murakami'],['Tetsuya Endō'],7.3,7,0.0,990.0,6.57
+334,"['December 9, 2007']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Masayuki Fujita'],['Sumio Watanabe'],7.5,6,0.0,959.0,6.87
+335,"['December 16, 2007']",['Koga Naoki'],"['Miyuki Sato', 'Shouji Tokiwa']",['Kenji Yokoyama'],['Hiroaki Miyamoto'],9.8,4,0.0,985.0,6.89
+336,"['December 23, 2007']",['Takuya Masumoto'],"['Miho Shiraishi', 'Ryūji Yoshiike']",['Eisaku Inoue'],['Gō Koga'],8.9,5,0.0,1373.0,5.62
+337,"['January 6, 2008']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Takeo Ide'],['Yoshihiro Ueda'],6.5,4,15.0,1742.0,8.41
+338,"['January 13, 2008']",['Tsuyoshi Sakurai'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Kazuya Hisada'],['Hiroyuki Satō'],7.9,6,15.0,1581.0,8.38
+339,"['January 20, 2008']",['Takuya Masumoto'],"['Miyuki Sato', 'Shouji Tokiwa']",['Masayuki Fujita'],['Sumio Watanabe'],8.8,7,1.0,1398.0,7.8
+340,"['January 27, 2008']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Masayuki Takagi'],['Katsumi Tokoro'],7.8,7,26.0,1430.0,7.8
+341,"['February 3, 2008']",['Isao Murayama'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Naoki Murakami'],['Tetsuya Endō'],7.2,8,7.0,1433.0,7.86
+342,"['February 10, 2008']",['Tsuyoshi Sakurai'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Katsumi Ishizuka'],['Hiroshi Matsuzaka'],8.7,7,18.0,1393.0,7.76
+343,"['February 17, 2008']",['Koga Naoki'],"['Miyuki Sato', 'Shouji Tokiwa']",['Kenji Yokoyama'],['Yoshihiro Ueda'],7.2,9,14.0,1338.0,7.8
+344,"['February 24, 2008']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Hiromitsu Shiozaki']",['Takeo Ide'],['Hiroyuki Satō'],9.0,4,17.0,1349.0,7.7
+345,"['March 2, 2008']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Fujita'],['Sumio Watanabe'],7.8,7,17.0,1361.0,7.3
+346,"['March 9, 2008']",['Takuya Masumoto'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Masayuki Takagi'],['Katsumi Tokoro'],9.4,6,17.0,1295.0,7.7
+347,"['March 16, 2008']",['Koga Naoki'],"['Miho Shiraishi', 'Shouji Tokiwa']",['Eisaku Inoue'],['Hiroaki Miyamoto'],8.5,8,17.0,1303.0,7.67
+348,"['March 23, 2008']",['Isao Murayama'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Kazuya Hisada'],['Hiroyuki Satō'],8.5,4,14.0,1344.0,7.96
+349,"['March 30, 2008']",['Yoshiyuki Suga'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Naoki Murakami'],['Yutaka Nakashima'],8.0,4,17.0,1327.0,7.98
+350,"['April 20, 2008']",['Tsuyoshi Sakurai'],"['Miyuki Sato', 'Shouji Tokiwa']",['Kenji Yokoyama'],['Tetsuya Endō'],8.7,4,17.0,1407.0,7.97
+351,"['April 27, 2008']",['Takuya Masumoto'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Takeo Ide'],['Yoshihiro Ueda'],6.4,8,15.0,1298.0,7.7
+352,"['May 4, 2008']",['Yoshiyuki Suga'],"['Ryūji Yoshiike', 'Shouji Tokiwa']",['Masayuki Fujita'],['Sumio Watanabe'],5.9,8,11.0,1288.0,7.81
+353,"['May 11, 2008']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Hiromitsu Shiozaki']","['Katsumi Ishizuka', 'Kazuya Hisada', 'Kenji Matsuoka']",['Hiroshi Matsuzaka'],8.7,4,4.0,1555.0,8.53
+354,"['May 18, 2008']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Takahiro Imamura'],8.4,7,6.0,1310.0,7.43
+355,"['May 25, 2008']",['Koga Naoki'],"['Miyuki Sato', 'Michiyo Kawasaki']",['Masayuki Takagi'],['Katsumi Tokoro'],8.1,7,17.0,1322.0,7.83
+356,"['June 1, 2008']",['Takuya Masumoto'],"['Ryūji Yoshiike', 'Shouji Tokiwa']",['Kazuya Hisada'],['Yutaka Nakashima'],6.4,6,17.0,1301.0,7.91
+357,"['June 8, 2008']",['Tsuyoshi Sakurai'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Eisaku Inoue'],['Tetsuya Endō'],9.3,4,18.0,1322.0,8.01
+358,"['June 15, 2008']",['Yoshiyuki Suga'],"['Ryūji Yoshiike', 'Hiromitsu Shiozaki']",['Masayuki Fujita'],['Sumio Watanabe'],6.3,5,5.0,1289.0,7.85
+359,"['June 22, 2008']",['Takuya Masumoto'],"['Ryūji Yoshiike', 'Shouji Tokiwa']",['Masahiro Shimanuki'],['Yoshihiro Ueda'],8.4,6,455.0,1335.0,7.7
+360,"['June 29, 2008']",['Hirohiko Kamisaka'],"['Miho Shiraishi', 'Michiyo Kawasaki']",['Kenji Yokoyama'],['Makoto Sonoda'],8.8,4,17.0,1407.0,8.0
+361,"['July 6, 2008']",['Koga Naoki'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Naoki Tate'],['Tetsuya Endō'],8.3,3,13.0,1393.0,8.1
+362,"['July 13, 2008']",['Yoshiyuki Suga'],"['Ryūji Yoshiike', 'Hiromitsu Shiozaki']",['Takeo Ide'],['Yoshihiro Ueda'],7.8,6,3.0,1505.0,8.38
+363,"['July 20, 2008']",['Hirohiko Kamisaka'],"['Miyuki Sato', 'Shouji Tokiwa']",['Masayuki Takagi'],['Yutaka Nakashima'],6.0,8,17.0,1312.0,7.83
+364,"['August 3, 2008']",['Takuya Masumoto'],"['Ryūji Yoshiike', 'Michiyo Kawasaki']",['Naoki Murakami'],['Yukihiko Nakao'],6.9,7,17.0,1288.0,7.49
+365,"['August 10, 2008']",['Koga Naoki'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Masayuki Fujita'],['Sumio Watanabe'],5.6,7,18.0,1311.0,7.76
+366,"['August 17, 2008']",['Tsuyoshi Sakurai'],"['Ryūji Yoshiike', 'Hiromitsu Shiozaki']",['Kazuya Hisada'],['Tetsuya Endō'],6.6,8,14.0,1286.0,7.66
+367,"['August 24, 2008']",['Takuya Masumoto'],"['Ryūji Yoshiike', 'Hidenori Nakahara']",['Eisaku Inoue'],['Hiroyuki Satō'],8.4,7,17.0,1435.0,8.26
+368,"['August 31, 2008']",['Yoshiyuki Suga'],"['Miyuki Sato', 'Shouji Tokiwa']",['Kenji Yokoyama'],['Hiroshi Matsuzaka'],7.2,5,17.0,1380.0,8.14
+369,"['September 7, 2008']",['Hirohiko Kamisaka'],"['Ryūji Yoshiike', 'Michiyo Kawasaki']",['Naoki Tate'],['Makoto Sonoda'],7.8,6,17.0,1368.0,8.26
+370,"['September 14, 2008']",['Koga Naoki'],"['Miyuki Sato', 'Kumiko Fukuzawa']",['Masayuki Takagi'],['Tetsuya Endō'],9.3,5,22.0,1392.0,8.12
+371,"['September 21, 2008']",['Takuya Masumoto'],"['Miyuki Sato', 'Hiromitsu Shiozaki']",['Naoki Murakami'],['Yukihiko Nakao'],8.1,5,9.0,1339.0,8.13
+372,"['September 28, 2008']",['Yoshiyuki Suga'],"['Ryūji Yoshiike', 'Hidenori Nakahara']",['Masayuki Fujita'],['Sumio Watanabe'],7.3,4,17.0,3256.0,9.02
+373,"['October 5, 2008']",['Tsuyoshi Sakurai'],['Miyuki Sato'],['Takeo Ide'],['Yutaka Nakashima'],8.2,3,17.0,2938.0,8.93
+374,"['October 12, 2008']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Naoyuki Itō'],6.5,3,5.0,1878.0,8.56
+375,"['October 19, 2008']",['Koga Naoki'],['Miyuki Sato'],['Masayuki Fujita'],['Kiichi Suzuno'],8.2,5,17.0,1624.0,8.33
+376,"['November 9, 2008']",['Takuya Masumoto'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Hiroyuki Satō'],8.4,6,17.0,3594.0,9.11
+377,"['November 16, 2008']",['Takuya Masumoto'],['Miyuki Sato'],['Eisaku Inoue'],['Tetsuya Endō'],9.8,4,17.0,65848.0,9.8
+378,"['November 23, 2008']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Naoki Tate'],['Makoto Sonoda'],8.0,6,17.0,1772.0,8.52
+379,"['November 30, 2008']",['Isao Murayama'],['Miyuki Sato'],['Naoki Murakami'],['Hiroshi Matsuzaka'],10.2,3,10.0,1557.0,8.34
+380,"['December 7, 2008']",['Tsuyoshi Sakurai'],['Miho Shiraishi'],['Masayuki Takagi'],['Hiroyuki Satō'],9.2,5,23.0,4458.0,9.31
+381,"['December 14, 2008']",['Koga Naoki'],['Miyuki Sato'],['Masahiro Shimanuki'],['Yutaka Nakashima'],7.1,7,17.0,1661.0,8.51
+382,"['December 21, 2008']",['Takuya Masumoto'],['Ryūji Yoshiike'],['Takeo Ide'],['Tetsuya Endō'],7.0,7,0.0,1088.0,6.75
+383,"['December 28, 2008']",['Takuya Masumoto'],['Ryūji Yoshiike'],['Yukiko Nakatani'],['Makoto Sonoda'],6.8,4,0.0,1047.0,6.66
+384,"['January 11, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kenji Yokoyama'],['Naoyuki Itō'],7.7,5,0.0,1227.0,7.71
+385,"['January 18, 2009']",['Isao Murayama'],"['Miyuki Sato', 'Shouji Tokiwa']",['Kazuya Hisada'],['Yutaka Nakashima'],9.0,4,11.0,1406.0,7.77
+386,"['January 25, 2009']",['Koga Naoki'],['Ryūji Yoshiike'],['Masayuki Fujita'],['Sumio Watanabe'],7.7,7,18.0,1342.0,7.68
+387,"['February 1, 2009']",['Tsuyoshi Sakurai'],['Miyuki Sato'],['Shigefumi Shingaki'],['Yukihiko Nakao'],8.7,5,17.0,1304.0,7.62
+388,"['February 8, 2009']",['Yoshiyuki Suga'],"['Ryūji Yoshiike', 'Miho Shiraishi']",['Naoki Tate'],['Yoshihiro Ueda'],7.2,6,15.0,1415.0,7.99
+389,"['February 15, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Masayuki Takagi'],['Katsumi Tokoro'],8.4,5,19.0,1383.0,7.93
+390,"['February 22, 2009']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Hiroaki Miyamoto'],8.7,7,17.0,1459.0,7.82
+391,"['March 1, 2009']",['Jin Tanaka'],['Miyuki Sato'],['Kenji Yokoyama'],['Yukihiko Nakao'],9.4,5,17.0,1657.0,8.07
+392,"['March 8, 2009']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Takeo Ide'],['Hiroyuki Satō'],9.1,4,17.0,1950.0,8.46
+393,"['March 15, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kazuya Hisada'],['Tetsuya Endō'],9.5,5,17.0,1812.0,8.32
+394,"['March 29, 2009']",['Jin Tanaka'],['Ryūji Yoshiike'],['Yukiko Nakatani'],['Makoto Sonoda'],8.1,5,17.0,1708.0,8.31
+395,"['April 5, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Yutaka Nakashima'],9.9,5,17.0,1863.0,8.4
+396,"['April 12, 2009']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Naoki Tate'],['Katsumi Tokoro'],8.8,4,17.0,17077.0,9.7
+397,"['April 19, 2009']",['Jin Tanaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],10.1,3,17.0,4717.0,9.31
+398,"['April 26, 2009']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Masayuki Fujita'],['Sumio Watanabe'],11.7,3,17.0,3563.0,9.13
+399,"['May 3, 2009']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Masahiro Shimanuki'],['Yukihiko Nakao'],9.4,4,17.0,3555.0,9.11
+400,"['May 10, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kenji Yokoyama'],['Katsumi Tokoro'],10.4,4,23.0,5255.0,9.4
+401,"['May 17, 2009']",['Jin Tanaka'],['Ryūji Yoshiike'],['Katsumi Ishizuka'],['Yutaka Nakashima'],10.6,4,6.0,3548.0,9.11
+402,"['May 24, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Takeo Ide'],['Tetsuya Endō'],9.8,5,25.0,3590.0,9.13
+403,"['May 31, 2009']",['Yoshiyuki Suga'],['Miyuki Sato'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],9.3,6,21.0,3683.0,9.23
+404,"['June 7, 2009']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Naoki Tate'],['Makoto Sonoda'],10.0,5,3.0,7326.0,9.6
+405,"['June 14, 2009']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Hiroaki Miyamoto'],10.0,5,17.0,56663.0,9.8
+406,"['June 21, 2009']",['Jin Tanaka'],['Miyuki Sato'],['Kenji Yokoyama'],['Tetsuya Endō'],10.4,5,0.0,1199.0,5.87
+407,"['June 28, 2009']",['Jin Tanaka'],['Miyuki Sato'],['Masahiro Shimanuki'],['Naoyuki Itō'],9.4,5,0.0,1157.0,5.97
+408,"['July 5, 2009']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Toshio Deguchi'],['Yoshihiro Ueda'],10.6,4,17.0,1576.0,7.85
+409,"['July 12, 2009']",['Jin Tanaka'],['Ryūji Yoshiike'],['Takeo Ide'],['Katsumi Tokoro'],11.7,2,17.0,1529.0,7.89
+410,"['July 19, 2009']",['Yoshiyuki Suga'],['Miyuki Sato'],['Shigefumi Shingaki'],['Yutaka Nakashima'],10.6,4,16.0,1547.0,7.9
+411,"['August 2, 2009']",['Jin Tanaka'],['Miho Shiraishi'],['Naoki Tate'],['Yukihiko Nakao'],10.1,5,17.0,1630.0,7.95
+412,"['August 9, 2009']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Gō Koga'],8.6,5,17.0,2106.0,8.42
+413,"['August 16, 2009']",['Jin Tanaka'],['Miyuki Sato'],['Yukiko Nakatani'],['Sumio Watanabe'],9.7,2,17.0,3210.0,8.91
+414,"['August 23, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kenji Yokoyama'],['Yutaka Nakashima'],11.0,4,17.0,2262.0,8.74
+415,"['August 30, 2009']",['Jin Tanaka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Yoshihiro Ueda'],8.9,5,17.0,3037.0,8.96
+416,"['September 6, 2009']",['Yoshiyuki Suga'],['Miyuki Sato'],['Toshio Deguchi'],['Katsumi Tokoro'],11.1,6,12.0,2201.0,8.7
+417,"['September 13, 2009']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Naoyuki Itō'],11.2,4,4.0,2292.0,8.64
+418,"['September 20, 2009']",['Jin Tanaka'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Tetsuya Endō'],9.2,4,3.0,1367.0,7.77
+419,"['September 27, 2009']",['Yoshiyuki Suga'],['Miyuki Sato'],['Katsumi Ishizuka'],['Yutaka Nakashima'],9.7,4,1.0,1338.0,7.25
+420,"['October 4, 2009']",['Jin Tanaka'],['Miho Shiraishi'],['Naoki Tate'],['Gō Koga'],9.3,3,1.0,1332.0,7.76
+421,"['October 11, 2009']",['Yoshiyuki Suga'],['Miyuki Sato'],['Kenji Yokoyama'],['Katsumi Tokoro'],12.0,2,1.0,1354.0,7.85
+422,"['October 18, 2009']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],9.7,6,17.0,1373.0,8.16
+423,"['October 25, 2009']",['Jin Tanaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Yutaka Nakashima'],10.4,4,14.0,1416.0,8.16
+424,"['November 1, 2009']",['Jin Tanaka'],['Miyuki Sato'],['Atsuko Kawamura'],['Tetsuya Endō'],10.3,2,17.0,1323.0,8.04
+425,"['November 8, 2009']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Yukiko Nakatani'],['Sumio Watanabe'],10.3,6,14.0,1325.0,7.96
+426,"['November 15, 2009']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Hiroaki Miyamoto'],11.9,2,0.0,1015.0,6.77
+427,"['November 22, 2009']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Kenji Yokoyama'],['Tetsuya Endō'],11.3,4,0.0,989.0,6.55
+428,"['November 29, 2009']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],12.2,3,0.0,952.0,6.43
+429,"['December 6, 2009']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Naoki Tate'],['Naoyuki Itō'],10.4,5,0.0,964.0,6.49
+430,"['December 13, 2009']",['Yoshiyuki Suga'],['Miyuki Sato'],['Megumi Yamashita'],['Yoshihiro Ueda'],10.9,4,3.0,1344.0,7.93
+431,"['December 20, 2009']",['Jin Tanaka'],['Ryūji Yoshiike'],['Yukiko Nakatani'],['Sumio Watanabe'],10.4,3,16.0,1301.0,7.9
+432,"['December 27, 2009']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Yutaka Nakashima'],10.5,3,18.0,1433.0,8.17
+433,"['January 10, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Atsuko Kawamura'],['Tetsuya Endō'],10.2,5,16.0,1496.0,8.21
+434,"['January 17, 2010']",['Jin Tanaka'],['Ryūji Yoshiike'],['Takeo Ide'],['Katsumi Tokoro'],10.3,3,17.0,1331.0,7.86
+435,"['January 24, 2010']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kenji Yokoyama'],['Takahiro Imamura'],10.6,4,18.0,1630.0,8.29
+436,"['January 31, 2010']",['Jin Tanaka'],['Miyuki Sato'],['Shigefumi Shingaki'],['Hiroaki Miyamoto'],10.7,3,9.0,1736.0,8.43
+437,"['February 7, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Katsumi Ishizuka'],['Yoshihiro Ueda'],10.7,4,7.0,1747.0,8.25
+438,"['February 14, 2010']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Toshio Deguchi'],['Yoshihiro Ueda'],11.6,5,7.0,1353.0,7.77
+439,"['February 21, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Naoki Tate'],['Tetsuya Endō'],11.9,3,9.0,1380.0,7.47
+440,"['February 28, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Yutaka Nakashima'],11.9,3,11.0,1451.0,8.1
+441,"['March 7, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Katsumi Tokoro'],13.0,3,14.0,1370.0,8.14
+442,"['March 14, 2010']",['Jin Tanaka'],['Miyuki Sato'],['Yukiko Nakatani'],['Sumio Watanabe'],12.0,3,13.0,1421.0,8.41
+443,"['March 21, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Tetsuya Endō'],12.1,3,15.0,1452.0,8.4
+444,"['March 28, 2010']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Takahiro Imamura'],12.2,2,2.0,1513.0,8.35
+445,"['April 4, 2010']",['Yoshiyuki Suga'],['Miyuki Sato'],['Takeo Ide'],['Yoshihiro Ueda'],11.9,3,7.0,1343.0,7.91
+446,"['April 11, 2010']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yutaka Nakashima'],13.8,3,11.0,1744.0,8.53
+447,"['April 18, 2010']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Makoto Sonoda'],12.9,2,14.0,3594.0,9.02
+448,"['April 25, 2010']",['Yoshiyuki Suga'],['Miyuki Sato'],['Naoki Tate'],['Tetsuya Endō'],13.5,2,15.0,1533.0,8.01
+449,"['May 2, 2010']",['Jin Tanaka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Hiroyuki Satō'],11.0,2,15.0,1574.0,8.35
+450,"['May 9, 2010']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Katsumi Tokoro'],12.5,2,18.0,3056.0,8.94
+451,"['May 16, 2010']",['Yoshiyuki Suga'],['Miyuki Sato'],['Megumi Yamashita'],['Takahiro Imamura'],13.9,2,17.0,4462.0,9.31
+452,"['May 23, 2010']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],13.0,3,15.0,1489.0,8.11
+453,"['May 30, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Takeo Ide'],['Aya Komaki'],13.8,2,555.0,1247.0,7.3
+454,"['June 6, 2010']",['Yoshiyuki Suga'],['Miyuki Sato'],['Atsuko Kawamura'],['Yutaka Nakashima'],11.8,3,543.0,1441.0,6.4
+455,"['June 13, 2010']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Naoki Tate'],['Gō Koga'],11.1,3,545.0,1208.0,7.14
+456,"['June 20, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Shigefumi Shingaki'],['Katsumi Tokoro'],12.7,2,557.0,1326.0,6.95
+457,"['June 27, 2010']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Katsumi Ishizuka'],['Makoto Sonoda'],10.5,3,0.0,1179.0,6.82
+458,"['July 11, 2010']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Hiroyuki Satō'],12.0,3,0.0,1269.0,6.9
+459,"['July 18, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Hiroaki Miyamoto'],10.7,3,19.0,4332.0,9.24
+460,"['August 1, 2010']",['Jin Tanaka'],['Miyuki Sato'],['Toshio Deguchi'],['Takahiro Imamura'],10.4,3,13.0,4207.0,9.31
+461,"['August 8, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Yukiko Nakatani'],['Sumio Watanabe'],10.2,2,2.0,4566.0,9.31
+462,"['August 15, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Yoshihiro Ueda'],10.4,2,14.0,3959.0,9.2
+463,"['August 22, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Masahiro Shimanuki'],['Yutaka Nakashima'],10.8,3,2.0,4163.0,9.31
+464,"['August 29, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Katsumi Tokoro'],9.4,3,541.0,3972.0,9.18
+465,"['September 5, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Takeo Ide'],['Aya Komaki'],10.1,3,15.0,4387.0,9.42
+466,"['September 12, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Kenji Yokoyama'],['Gō Koga'],10.9,3,15.0,5356.0,9.46
+467,"['September 19, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Naoyuki Itō'],10.6,3,15.0,4451.0,9.41
+468,"['September 26, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Makoto Sonoda'],9.0,4,15.0,3995.0,9.31
+469,"['October 3, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Masayuki Takagi'],['Yoshihiro Ueda'],11.7,3,15.0,3990.0,9.11
+470,"['October 10, 2010']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Megumi Yamashita'],['Takahiro Imamura'],12.4,3,15.0,3975.0,9.2
+471,"['October 17, 2010']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yutaka Nakashima'],9.8,3,15.0,3774.0,9.21
+472,"['October 24, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Yukiko Nakatani'],['Sumio Watanabe'],11.9,3,15.0,4127.0,9.29
+473,"['October 31, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Kazuya Hisada'],['Hiroaki Miyamoto'],10.3,4,15.0,3835.0,9.2
+474,"['November 7, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Eisaku Inoue'],['Aya Komaki'],10.5,1,15.0,7652.0,9.6
+475,"['November 14, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Kenji Yokoyama'],['Katsumi Tokoro'],11.9,3,16.0,4244.0,9.31
+476,"['November 21, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Yoshihiro Ueda'],9.8,5,16.0,3938.0,9.29
+477,"['November 28, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Naoyuki Itō'],13.0,3,13.0,3753.0,9.19
+478,"['December 5, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Atsuko Kawamura'],['Gō Koga'],10.7,4,13.0,4774.0,9.41
+479,"['December 12, 2010']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Makoto Sonoda'],11.6,3,14.0,3931.0,9.31
+480,"['December 19, 2010']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Takahiro Imamura'],13.8,3,15.0,7765.0,9.6
+481,"['December 26, 2010']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Megumi Yamashita'],['Yutaka Nakashima'],10.8,3,15.0,8984.0,9.7
+482,"['January 9, 2011']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],9.2,4,15.0,51834.0,9.69
+483,"['January 16, 2011']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kazuya Hisada'],['Hiroaki Miyamoto'],11.2,3,15.0,60316.0,9.69
+484,"['January 23, 2011']",['Jin Tanaka'],['Miyuki Sato'],['Eisaku Inoue'],['Aya Komaki'],11.4,3,1.0,53301.0,9.7
+485,"['January 30, 2011']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Katsumi Tokoro'],10.4,3,13.0,59396.0,9.8
+486,"['February 6, 2011']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Naoyuki Itō'],12.0,3,15.0,6000.0,9.49
+487,"['February 13, 2011']",['Jin Tanaka'],['Miyuki Sato'],['Takeo Ide'],['Gō Koga'],11.1,3,16.0,4477.0,9.31
+488,"['February 20, 2011']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],11.1,3,15.0,8010.0,9.59
+489,"['March 6, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Yutaka Nakashima'],11.7,3,13.0,8029.0,9.6
+490,"['March 20, 2011']",['Hirohiko Kamisaka'],['Miyuki Sato'],['Toshio Deguchi'],['Takahiro Imamura'],12.2,3,5.0,2702.0,8.58
+491,"['March 27, 2011']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Masayuki Takagi'],['Makoto Sonoda'],11.5,3,13.0,2812.0,8.73
+492,"['April 3, 2011']",['Isao Murayama'],['Masanobu Nomura'],"['Takeo Ide', 'Yukiko Nakatani', 'Hisashi Kagaya']",['Naoyuki Itō'],10.8,3,0.0,1264.0,5.61
+493,"['April 10, 2011']",['Jin Tanaka'],['Ryūji Yoshiike'],['Eisaku Inoue'],['Aya Komaki'],9.7,5,3.0,2266.0,8.41
+494,"['April 17, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Katsumi Tokoro'],10.2,3,5.0,1939.0,8.21
+495,"['April 24, 2011']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Yoshihiro Ueda'],10.3,3,8.0,1789.0,8.05
+496,"['May 1, 2011']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Yutaka Nakashima'],9.5,3,12.0,1947.0,8.22
+497,"['May 8, 2011']",['Jin Tanaka'],['Ryūji Yoshiike'],['Katsumi Ishizuka'],['Gō Koga'],8.0,5,2.0,1718.0,8.04
+498,"['May 15, 2011']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Takahiro Imamura'],9.4,5,2.0,1500.0,7.58
+499,"['May 22, 2011']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Hiroaki Miyamoto'],9.3,5,0.0,1491.0,7.6
+500,"['May 29, 2011']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Eisaku Inoue'],['Makoto Sonoda'],9.8,4,11.0,1978.0,8.04
+501,"['June 5, 2011']",['Jin Tanaka'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Yoshihiro Ueda'],9.6,5,6.0,1675.0,8.08
+502,"['June 12, 2011']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Katsumi Tokoro'],9.0,5,9.0,1659.0,8.05
+503,"['June 19, 2011']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Aya Komaki'],10.2,4,13.0,3189.0,9.02
+504,"['June 26, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Yukiko Nakatani'],['Yutaka Nakashima'],8.9,5,17.0,1962.0,8.54
+505,"['July 3, 2011']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Takeo Ide'],['Yoshihiro Ueda'],8.3,5,17.0,3808.0,9.25
+506,"['July 10, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Megumi Yamashita'],['Gō Koga'],8.9,6,0.0,1682.0,8.11
+507,"['July 17, 2011']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Takahiro Imamura'],9.4,5,14.0,1610.0,8.09
+508,"['July 31, 2011']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Katsumi Tokoro'],9.5,2,7.0,1362.0,7.65
+509,"['August 7, 2011']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Yoshihiro Ueda'],9.0,6,5.0,1317.0,7.79
+510,"['August 14, 2011']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],9.4,3,2.0,1328.0,7.76
+511,"['August 21, 2011']",['Jin Tanaka'],['Ryūji Yoshiike'],['Katsumi Ishizuka'],['Makoto Sonoda'],8.4,4,12.0,1625.0,8.49
+512,"['August 28, 2011']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Eisaku Inoue'],['Yutaka Nakashima'],11.0,3,7.0,1543.0,8.19
+513,"['September 4, 2011']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Hiroyuki Satō'],9.8,6,12.0,1306.0,7.68
+514,"['September 11, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Aya Komaki'],10.0,3,3.0,1289.0,7.51
+515,"['September 18, 2011']",['Tomohiro Nakayama'],['Miho Shiraishi'],"['Takeo Ide', 'Emiko Naga']",['Yoshihiro Ueda'],8.7,4,10.0,1408.0,8.13
+516,"['September 25, 2011']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Yukiko Nakatani'],['Katsumi Tokoro'],9.0,4,11.0,4014.0,9.27
+517,"['October 2, 2011']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Hiroaki Miyamoto'],11.1,2,2.0,4041.0,9.26
+518,"['October 9, 2011']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Naoyuki Itō'],10.2,3,6.0,1818.0,8.38
+519,"['October 16, 2011']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Yutaka Nakashima'],10.1,4,12.0,1633.0,8.05
+520,"['October 23, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Gō Koga'],12.6,2,11.0,1576.0,8.05
+521,"['October 30, 2011']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Takashi Ōtsuka'],10.8,4,17.0,3884.0,9.25
+522,"['November 6, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Toshio Deguchi'],['Hiroyuki Satō'],10.9,3,15.0,2423.0,8.8
+523,"['November 13, 2011']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Yoshihiro Ueda'],10.5,5,17.0,1762.0,8.14
+524,"['November 20, 2011']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Eisaku Inoue'],['Aya Komaki'],10.3,3,16.0,1288.0,7.96
+525,"['November 27, 2011']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Katsumi Ishizuka'],['Katsumi Tokoro'],12.9,2,14.0,1281.0,7.82
+526,"['December 4, 2011']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Atsuko Kawamura'],['Takahiro Imamura'],11.2,6,18.0,1256.0,7.86
+527,"['December 11, 2011']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Yutaka Nakashima'],10.0,3,18.0,1297.0,8.01
+528,"['December 18, 2011']",['Jin Tanaka'],['Miho Shiraishi'],['Yukiko Nakatani'],['Naoyuki Itō'],9.5,4,16.0,1290.0,7.66
+529,"['December 25, 2011']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Yoshihiro Ueda'],10.5,3,13.0,1398.0,7.57
+530,"['January 8, 2012']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Ayako Hiraike'],8.2,5,15.0,1289.0,7.69
+531,"['January 15, 2012']",['Jin Tanaka'],"['Ryūji Yoshiike', 'Emiko Naga']",['Masayuki Takagi'],['Gō Koga'],9.9,4,16.0,1251.0,7.51
+532,"['January 22, 2012']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Toshio Deguchi'],['Aya Komaki'],11.1,3,15.0,1243.0,7.61
+533,"['January 29, 2012']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Hiroyuki Satō'],10.6,4,7.0,1200.0,7.67
+534,"['February 5, 2012']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kenji Yokoyama'],['Takahiro Imamura'],10.2,5,16.0,1196.0,7.79
+535,"['February 12, 2012']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Eisaku Inoue'],['Katsumi Tokoro'],10.1,5,15.0,1194.0,7.6
+536,"['February 19, 2012']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Yoshihiro Ueda'],9.8,6,15.0,1210.0,7.96
+537,"['February 26, 2012']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Yutaka Nakashima'],10.4,5,16.0,1218.0,8.07
+538,"['March 4, 2012']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Naoyuki Itō'],10.7,4,15.0,1179.0,7.94
+539,"['March 18, 2012']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Takeo Ide'],['Aya Komaki'],8.4,5,14.0,1178.0,7.88
+540,"['March 25, 2012']",['Jin Tanaka'],['Miho Shiraishi'],['五十内裕輔'],['Hiroyuki Satō'],8.8,7,15.0,1230.0,7.99
+541,"['April 1, 2012']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Yoshihiro Ueda'],9.6,3,16.0,1665.0,8.47
+542,"['April 8, 2012']",['Isao Murayama'],['Masanobu Nomura'],"['Hisashi Kagaya', 'Kazuya Hisada', 'Naoki Tate', 'Kenji Yokoyama']","['Yutaka Nakashima', 'Tetsuya Endō']",10.0,3,0.0,1009.0,5.69
+543,"['April 15, 2012']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],8.1,4,16.0,1730.0,8.5
+544,"['April 22, 2012']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Takahiro Imamura'],9.0,4,15.0,1181.0,7.83
+545,"['April 29, 2012']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Atsuko Kawamura'],['Naoyuki Itō'],7.9,5,17.0,1213.0,7.52
+546,"['May 6, 2012']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Aya Komaki'],8.2,6,18.0,1330.0,8.26
+547,"['May 13, 2012']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Takeo Ide'],['Tetsuya Endō'],8.3,6,17.0,1178.0,7.97
+548,"['May 20, 2012']",['Jin Tanaka'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Yoshihiro Ueda'],8.4,6,16.0,1181.0,7.83
+549,"['May 27, 2012']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Yutaka Nakashima'],8.8,6,12.0,1137.0,7.75
+550,"['June 3, 2012']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Gō Koga'],8.8,6,19.0,1299.0,7.24
+551,"['June 10, 2012']",['Jin Tanaka'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Tetsuya Endō'],8.7,3,17.0,1183.0,7.31
+552,"['June 17, 2012']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Aya Komaki'],9.1,6,17.0,1167.0,7.45
+553,"['June 24, 2012']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kazuya Hisada'],['Hiroaki Miyamoto'],9.4,4,17.0,1641.0,8.49
+554,"['July 1, 2012']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],10.7,3,15.0,3260.0,9.02
+555,"['July 8, 2012']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Atsuko Kawamura'],['Takahiro Imamura'],9.3,6,3.0,1331.0,8.15
+556,"['July 15, 2012']",['Ryūji Yoshiike'],['Masayuki Takagi'],['Naoyuki Itō'],['Jin Tanaka'],8.9,6,7.0,1215.0,7.97
+557,"['July 29, 2012']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Yutaka Nakashima'],8.8,5,16.0,1199.0,7.93
+558,"['August 5, 2012']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Tetsuya Endō'],8.1,1,18.0,1156.0,7.62
+559,"['August 12, 2012']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Megumi Yamashita'],['Gō Koga'],8.1,5,17.0,1138.0,7.4
+560,"['August 19, 2012']",['Jin Tanaka'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],8.7,5,17.0,1218.0,7.62
+561,"['August 26, 2012']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Aya Komaki'],7.7,5,17.0,1148.0,7.57
+562,"['September 2, 2012']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Takahiro Imamura'],8.8,6,18.0,1136.0,7.35
+563,"['September 9, 2012']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Naoyuki Itō'],9.5,5,15.0,1185.0,7.16
+564,"['September 16, 2012']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Tetsuya Endō'],7.5,6,20.0,1178.0,7.42
+565,"['September 23, 2012']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Yutaka Nakashima'],9.3,3,8.0,1383.0,7.96
+566,"['September 30, 2012']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Hiroaki Miyamoto'],8.8,4,20.0,1326.0,7.97
+567,"['October 7, 2012']",['Jin Tanaka'],['Miho Shiraishi'],['Naoki Murakami'],['Takahiro Imamura'],8.0,3,20.0,1330.0,7.96
+568,"['October 14, 2012']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Aya Komaki'],8.8,3,17.0,1554.0,8.24
+569,"['October 21, 2012']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],9.1,6,17.0,1304.0,7.74
+570,"['October 28, 2012']",['Jin Tanaka'],['Ryūji Yoshiike'],['Yukiko Nakatani'],['Tetsuya Endō'],9.5,6,15.0,1393.0,8.21
+571,"['November 4, 2012']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Atsuko Kawamura'],['Tetsuya Endō'],6.7,6,16.0,1422.0,8.29
+572,"['November 11, 2012']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Katsumi Ishizuka'],['Ayako Hiraike'],9.6,5,15.0,1174.0,7.95
+573,"['November 18, 2012']",['Jin Tanaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Yutaka Nakashima'],10.2,5,17.0,1231.0,7.87
+574,"['November 25, 2012']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Katsumi Tokoro'],9.2,6,18.0,1278.0,7.92
+575,"['December 2, 2012']",['Hirohiko Kamisaka'],['Miho Shiraishi'],"['Kazuya Hisada', 'Kazuyuki Igai', '渡辺奈月', 'Yūsuke Isōchi']",['Aya Komaki'],10.6,5,0.0,995.0,7.18
+576,"['December 9, 2012']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],8.4,6,0.0,929.0,7.12
+577,"['December 16, 2012']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Naoki Murakami'],['Takahiro Imamura'],9.4,3,0.0,918.0,7.0
+578,"['December 23, 2012']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Megumi Yamashita'],['Tetsuya Endō'],8.9,3,0.0,990.0,6.88
+579,"['January 6, 2013']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Ayako Hiraike'],7.2,4,17.0,1325.0,7.92
+580,"['January 13, 2013']",['Jin Tanaka'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Yutaka Nakashima'],7.9,6,16.0,1290.0,7.86
+581,"['January 20, 2013']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Masayuki Takagi'],['Hiroaki Miyamoto'],7.5,6,10.0,1199.0,7.57
+582,"['January 27, 2013']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Yoshihiro Ueda'],7.1,6,13.0,1205.0,7.66
+583,"['February 3, 2013']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Aya Komaki'],9.0,6,13.0,1161.0,7.51
+584,"['February 10, 2013']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Tetsuya Endō'],9.3,4,2.0,1179.0,7.82
+585,"['February 17, 2013']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Yukiko Nakatani'],['Takahiro Imamura'],9.0,6,16.0,1282.0,8.13
+586,"['March 3, 2013']",['Jin Tanaka'],['Ryūji Yoshiike'],['Naoki Murakami'],['Katsumi Tokoro'],9.1,6,17.0,1265.0,8.11
+587,"['March 17, 2013']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Megumi Yamashita'],['Naoyuki Itō'],8.0,5,18.0,1452.0,8.48
+588,"['March 24, 2013']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],7.3,4,7.0,1193.0,8.19
+589,"['March 31, 2013']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Tetsuya Endō'],6.8,4,16.0,1131.0,7.67
+590,"['April 7, 2013']",['Isao Murayama'],['Shinichi Konno'],['Kenji Yokoyama'],['Yutaka Nakashima'],8.3,3,0.0,1168.0,6.18
+591,"['April 14, 2013']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Yukiko Nakatani'],['Aya Komaki'],8.0,4,15.0,1175.0,7.79
+592,"['April 21, 2013']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Takahiro Imamura'],8.3,4,15.0,1121.0,7.51
+593,"['April 28, 2013']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],7.2,6,17.0,1167.0,8.07
+594,"['May 5, 2013']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Katsumi Ishizuka'],['Ayako Hiraike'],6.5,6,17.0,1250.0,8.22
+595,"['May 12, 2013']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Tetsuya Endō'],7.6,6,15.0,1151.0,7.86
+596,"['May 19, 2013']",['Shōji Yonemura'],['Miho Shiraishi'],['Naoki Murakami'],['Takahiro Imamura'],8.7,3,15.0,1140.0,7.74
+597,"['May 26, 2013']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],"['Yukiko Nakatani', 'Shingo Fujisaki']",['Aya Komaki'],8.6,6,15.0,1183.0,8.27
+598,"['June 2, 2013']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masayuki Takagi'],['Tetsuya Endō'],8.0,6,17.0,1139.0,7.89
+599,"['June 9, 2013']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],7.9,5,17.0,1152.0,7.96
+600,"['June 16, 2013']",['Shōji Yonemura'],['Miho Shiraishi'],['Kenji Yokoyama'],['Ayako Hiraike'],8.0,5,15.0,1478.0,7.77
+601,"['June 23, 2013']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Takahiro Imamura'],7.5,5,17.0,1176.0,7.46
+602,"['June 30, 2013']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kazuya Hisada'],['Takashi Ōtsuka'],7.8,3,16.0,1161.0,7.63
+603,"['July 7, 2013']",['Jin Tanaka'],['Ryūji Yoshiike'],['Yūsuke Isōchi'],['Aya Komaki'],8.1,4,17.0,1199.0,8.18
+604,"['July 14, 2013']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Tetsuya Endō'],7.2,6,17.0,1148.0,7.9
+605,"['July 21, 2013']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Yoshihiro Ueda'],8.5,3,15.0,1204.0,7.66
+606,"['July 28, 2013']",['Shōji Yonemura'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Takahiro Imamura'],7.7,5,17.0,1136.0,7.76
+607,"['August 11, 2013']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],"['Megumi Yamashita', 'Kazuya Hisada']",['Takashi Ōtsuka'],7.3,5,17.0,1267.0,8.32
+608,"['August 18, 2013']",['Shōji Yonemura'],['Miho Shiraishi'],['Toshio Deguchi'],['Masahiro Hosoda'],7.0,4,17.0,1150.0,7.95
+609,"['August 25, 2013']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Takeo Ide'],['Aya Komaki'],6.2,7,17.0,1139.0,8.0
+610,"['September 1, 2013']",['Jin Tanaka'],['Miho Shiraishi'],['Yukiko Nakatani'],['Yoshihiro Ueda'],7.7,6,17.0,1159.0,7.69
+611,"['September 8, 2013']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Takahiro Imamura'],7.6,6,16.0,1104.0,7.61
+612,"['September 15, 2013']",['Jin Tanaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Ayako Hiraike'],8.6,4,17.0,1242.0,7.85
+613,"['September 22, 2013']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Yoshihiro Ueda'],8.8,4,17.0,2954.0,8.93
+614,"['September 29, 2013']",['Shōji Yonemura'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Aya Komaki'],7.7,4,17.0,1435.0,8.17
+615,"['October 6, 2013']",['Hirohiko Kamisaka'],"['Ryūji Yoshiike', 'Miho Shiraishi']",['Yūsuke Isōchi'],['Tetsuya Endō'],6.7,4,17.0,1352.0,8.13
+616,"['October 13, 2013']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Masayuki Takagi'],['Takashi Ōtsuka'],8.2,4,18.0,3485.0,9.26
+617,"['October 20, 2013']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Masahiro Hosoda'],7.5,6,19.0,1408.0,8.36
+618,"['October 27, 2013']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Yoshihiro Ueda'],7.9,6,13.0,1130.0,7.87
+619,"['November 3, 2013']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Takeo Ide'],['Aya Komaki'],9.2,5,18.0,1176.0,8.19
+620,"['November 10, 2013']",['Jin Tanaka'],['Miho Shiraishi'],['Yukiko Nakatani'],['Ayako Hiraike'],8.8,5,15.0,1271.0,8.19
+621,"['November 17, 2013']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],8.1,7,17.0,1221.0,8.15
+622,"['November 24, 2013']",['Shōji Yonemura'],['Miho Shiraishi'],['Kenji Yokoyama'],['Tetsuya Endō'],8.8,4,17.0,1195.0,8.14
+623,"['December 1, 2013']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Takahiro Imamura'],8.2,3,17.0,1188.0,7.93
+624,"['December 8, 2013']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Masahiro Hosoda'],9.2,6,12.0,1827.0,8.59
+625,"['December 15, 2013']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Yukiko Nakatani'],['Tetsuya Endō'],8.7,6,13.0,1594.0,8.22
+626,"['December 22, 2013']",['Jin Tanaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Takashi Ōtsuka'],9.4,4,1.0,994.0,7.04
+627,"['January 5, 2014']",['Tomohiro Nakayama'],"['Ryūji Yoshiike', 'Miho Shiraishi']","['Megumi Yamashita', 'Sadahiko Sakamaki']",['Aya Komaki'],7.2,4,0.0,1007.0,6.79
+628,"['January 12, 2014']",['Jin Tanaka'],['Miho Shiraishi'],['Toshio Deguchi'],['Ayako Hiraike'],7.5,4,5.0,1046.0,7.01
+629,"['January 19, 2014']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Yoshihiro Ueda'],9.5,6,17.0,1747.0,8.38
+630,"['January 26, 2014']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Takeo Ide'],['Hiroaki Miyamoto'],8.8,3,14.0,1539.0,8.0
+631,"['February 2, 2014']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Masahiro Hosoda'],8.3,6,13.0,1510.0,8.12
+632,"['February 9, 2014']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Kenji Yokoyama'],['Katsumi Tokoro'],8.2,6,15.0,1441.0,7.94
+633,"['February 16, 2014']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Tetsuya Endō'],8.1,6,12.0,1383.0,7.88
+634,"['February 23, 2014']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Atsuko Kawamura'],['Aya Komaki'],8.0,4,15.0,1458.0,8.14
+635,"['March 2, 2014']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Takahiro Imamura'],7.4,6,12.0,1449.0,7.97
+636,"['March 16, 2014']",['Jin Tanaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],6.8,6,8.0,1422.0,7.95
+637,"['March 23, 2014']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],8.1,4,19.0,1387.0,7.96
+638,"['March 30, 2014']",['Yoshiyuki Suga'],['Miho Shiraishi'],"['Yukiko Nakatani', 'Shingo Fujisaki']",['Ayako Hiraike'],7.9,4,17.0,1457.0,8.19
+639,"['April 6, 2014']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Takashi Ōtsuka'],7.7,4,10.0,1360.0,7.96
+640,"['April 13, 2014']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],9.7,5,13.0,1269.0,7.7
+641,"['April 20, 2014']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Asako Narasaki'],['Toshinori Fukuzawa'],8.0,6,9.0,1269.0,7.78
+642,"['April 27, 2014']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Masahiro Hosoda'],9.0,5,11.0,1972.0,8.5
+643,"['May 4, 2014']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Yoshihiro Ueda'],7.3,6,18.0,1968.0,8.49
+644,"['May 11, 2014']",['Shōji Yonemura'],['Miho Shiraishi'],['Atsuko Kawamura'],['Tetsuya Endō'],7.4,4,17.0,1489.0,8.1
+645,"['May 18, 2014']",['Jin Tanaka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Katsumi Tokoro'],7.5,6,17.0,1233.0,7.82
+646,"['May 25, 2014']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Aya Komaki'],9.3,4,17.0,3308.0,9.03
+647,"['June 1, 2014']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Ayako Hiraike'],7.7,6,16.0,1218.0,7.92
+648,"['June 8, 2014']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],8.2,6,17.0,1197.0,7.73
+649,"['June 15, 2014']",['Jin Tanaka'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Yoshihiro Ueda'],7.4,6,18.0,1925.0,8.46
+650,"['June 22, 2014']",['Shōji Yonemura'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Masahiro Hosoda'],9.2,3,17.0,1618.0,8.28
+651,"['June 29, 2014']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Toshinori Fukuzawa'],7.8,6,17.0,1514.0,8.25
+652,"['July 6, 2014']",['Shōji Yonemura'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Katsumi Tokoro'],7.3,4,11.0,1204.0,7.82
+653,"['July 13, 2014']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Tetsuya Endō'],7.9,5,10.0,1214.0,7.58
+654,"['July 20, 2014']",['Jin Tanaka'],['Miho Shiraishi'],['Asako Narasaki'],['Yoshihiro Ueda'],8.2,4,12.0,1411.0,8.09
+655,"['August 3, 2014']",['Yoshiyuki Suga'],['Masayuki Takagi'],['Ryūji Yoshiike'],['Ayako Hiraike'],6.6,5,16.0,1976.0,8.57
+656,"['August 10, 2014']",['Shōji Yonemura'],['Miho Shiraishi'],['Toshio Deguchi'],['Toshinori Fukuzawa'],8.1,6,11.0,1332.0,7.84
+657,"['August 17, 2014']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Kōhei Kureta'],8.0,4,6.0,1194.0,7.69
+658,"['August 24, 2014']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Katsumi Tokoro'],8.3,4,8.0,1395.0,8.04
+659,"['August 31, 2014']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Yoshihiro Ueda'],6.7,7,16.0,1653.0,8.39
+660,"['September 7, 2014']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Tetsuya Endō'],8.4,5,17.0,1666.0,8.35
+661,"['September 14, 2014']",['Jin Tanaka'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Satoshi Itō'],7.3,7,16.0,3215.0,9.22
+662,"['September 21, 2014']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Masahiro Hosoda'],8.7,5,17.0,3225.0,9.23
+663,"['September 28, 2014']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Asako Narasaki'],['Tetsuya Endō'],8.8,3,17.0,5270.0,9.51
+664,"['October 5, 2014']",['Shōji Yonemura'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],9.9,3,17.0,1228.0,7.81
+665,"['October 12, 2014']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],8.2,4,16.0,1193.0,7.74
+666,"['October 19, 2014']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Toshinori Fukuzawa'],8.1,6,17.0,1359.0,7.94
+667,"['October 26, 2014']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Fumiharu Kamanaka'],8.4,6,17.0,1402.0,8.11
+668,"['November 2, 2014']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],7.3,7,13.0,1323.0,8.03
+669,"['November 9, 2014']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Yoshihiro Ueda'],9.3,5,2.0,1283.0,7.82
+670,"['November 16, 2014']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Aya Komaki'],8.2,4,9.0,1466.0,8.2
+671,"['November 23, 2014']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Masahiro Hosoda'],7.6,6,16.0,1286.0,7.9
+672,"['November 30, 2014']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Asako Narasaki'],['Katsumi Tokoro'],8.6,6,18.0,1335.0,8.07
+673,"['December 7, 2014']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Tetsuya Endō'],9.3,6,16.0,1295.0,7.8
+674,"['December 14, 2014']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Satoshi Itō'],8.4,4,12.0,1553.0,8.0
+675,"['December 21, 2014']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Yoshihiro Ueda'],8.7,4,11.0,1900.0,8.49
+676,"['December 28, 2014']",['Yoshiyuki Suga'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],7.8,5,11.0,2127.0,8.75
+677,"['January 11, 2015']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Aya Komaki'],8.6,6,14.0,3936.0,9.33
+678,"['January 18, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Kazuya Hisada'],['Yoshihiro Ueda'],9.0,4,12.0,4148.0,9.43
+679,"['January 25, 2015']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Yūsuke Isōchi'],['Masahiro Hosoda'],8.6,4,8.0,2049.0,8.6
+680,"['February 1, 2015']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Kenji Yokoyama'],['Satoshi Itō'],9.4,6,2.0,2109.0,8.75
+681,"['February 8, 2015']",['Yoshiyuki Suga'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],9.1,7,16.0,1596.0,8.32
+682,"['February 15, 2015']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],9.7,6,7.0,1246.0,7.89
+683,"['March 1, 2015']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Asako Narasaki'],['Toshinori Fukuzawa'],8.9,6,6.0,1538.0,8.27
+684,"['March 15, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Ayako Hiraike'],8.3,6,11.0,1379.0,8.01
+685,"['March 22, 2015']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Aya Komaki'],7.3,6,14.0,1494.0,8.2
+686,"['March 29, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],8.4,4,13.0,1414.0,8.02
+687,"['April 5, 2015']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Masahiro Hosoda'],9.4,3,11.0,2076.0,8.66
+688,"['April 12, 2015']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Yoshihiro Ueda'],9.0,4,12.0,1326.0,7.86
+689,"['April 19, 2015']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Satoshi Itō'],9.0,5,9.0,1388.0,8.03
+690,"['April 26, 2015']",['Ryūji Yoshiike'],['Miho Shiraishi'],['Kazuya Hisada'],['Aya Komaki'],8.2,5,14.0,1242.0,7.82
+691,"['May 3, 2015']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Makoto Sonoda'],7.0,6,11.0,1202.0,7.65
+692,"['May 10, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Ayako Hiraike'],9.0,5,10.0,1705.0,8.18
+693,"['May 17, 2015']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Aya Komaki'],8.6,4,11.0,1241.0,7.51
+694,"['May 24, 2015']",['Shōji Yonemura'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],8.7,5,12.0,1177.0,7.52
+695,"['May 31, 2015']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Asako Narasaki'],['Tetsuya Endō'],8.0,5,10.0,1496.0,8.25
+696,"['June 7, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Satoshi Itō'],8.6,5,9.0,1989.0,8.54
+697,"['June 14, 2015']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Masahiro Shimanuki'],['Masahiro Hosoda'],8.9,4,10.0,3331.0,9.11
+698,"['June 21, 2015']",['Shōji Yonemura'],['Miho Shiraishi'],"['Yūsuke Isōchi', 'Kazuyuki Igai']",['Tatsuya Nagamine'],8.8,2,15.0,4034.0,9.31
+699,"['June 28, 2015']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Takagi Masayuki'],['Aya Komaki'],9.1,4,11.0,3233.0,9.18
+700,"['July 5, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Kazuya Hisada'],['Kentarō Fujita'],9.9,2,13.0,3325.0,8.85
+701,"['July 12, 2015']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],7.0,5,15.0,3589.0,9.31
+702,"['July 19, 2015']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Yoshihiro Ueda'],8.1,2,15.0,3443.0,9.22
+703,"['August 2, 2015']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Tetsuya Endō'],8.9,3,17.0,3934.0,9.4
+704,"['August 9, 2015']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Masahiro Hosoda'],8.3,2,16.0,3410.0,9.22
+705,"['August 16, 2015']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Asako Narasaki'],['Satoshi Itō'],6.9,4,15.0,3996.0,9.4
+706,"['August 23, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Tatsuya Nagamine'],7.1,5,15.0,14459.0,9.7
+707,"['August 30, 2015']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Takagi Masayuki'],['Yoshihiro Ueda'],7.5,5,13.0,1996.0,8.25
+708,"['September 6, 2015']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Kazuya Hisada'],['Kentarō Fujita'],9.2,3,14.0,3178.0,9.07
+709,"['September 13, 2015']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],8.1,5,14.0,1419.0,7.91
+710,"['September 20, 2015']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Atsuko Kawamura'],['Aya Komaki'],7.7,3,15.0,1671.0,8.4
+711,"['September 27, 2015']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Toshinori Fukuzawa'],7.8,3,10.0,1372.0,7.87
+712,"['October 4, 2015']",['Jin Tanaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],7.6,4,12.0,1845.0,8.29
+713,"['October 11, 2015']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Masahiro Hosoda'],8.8,4,13.0,2132.0,8.65
+714,"['October 18, 2015']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Asako Narasaki'],['Yoshihiro Ueda'],8.7,5,14.0,1355.0,7.68
+715,"['October 25, 2015']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Shūichi Itō'],['Satoshi Itō'],8.4,5,15.0,3375.0,9.11
+716,"['November 1, 2015']",['Shōji Yonemura'],['Miho Shiraishi'],['Kazuya Hisada'],['Aya Komaki'],8.1,6,14.0,2490.0,8.83
+717,"['November 8, 2015']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Tatsuya Nagamine'],7.9,6,12.0,2153.0,8.71
+718,"['November 15, 2015']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Atsuko Kawamura'],['Kentarō Fujita'],9.8,2,11.0,1933.0,8.2
+719,"['November 22, 2015']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Katsumi Tokoro'],8.3,6,14.0,4991.0,9.49
+720,"['November 29, 2015']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Tetsuya Endō'],7.3,5,10.0,3047.0,8.96
+721,"['December 6, 2015']",['Jin Tanaka'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],8.0,6,13.0,2959.0,9.05
+722,"['December 13, 2015']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shūichi Itō'],['Masahiro Hosoda'],8.6,6,13.0,3185.0,9.27
+723,"['December 20, 2015']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Asako Narasaki'],['Satoshi Itō'],8.4,4,12.0,5566.0,9.49
+724,"['December 27, 2015']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Toshio Deguchi'],['Yasunori Koyama'],8.7,2,13.0,2969.0,9.0
+725,"['January 10, 2016']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Kentarō Fujita'],8.5,4,13.0,4699.0,9.29
+726,"['January 17, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Kazuya Hisada'],['Toshinori Fukuzawa'],7.5,6,17.0,23818.0,9.69
+727,"['January 24, 2016']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],8.4,4,13.0,2616.0,8.89
+728,"['January 31, 2016']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Kenji Yokoyama'],['Katsumi Tokoro'],9.3,3,12.0,3539.0,9.18
+729,"['February 14, 2016']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Shūichi Itō'],['Tetsuya Endō'],10.2,2,13.0,2271.0,8.69
+730,"['February 21, 2016']",['Atsuhiro Tomioka'],['Miho Shiraishi'],"['Asako Narasaki', 'Isamu Takara']",['Masahiro Hosoda'],9.6,4,13.0,1427.0,7.92
+731,"['February 28, 2016']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Yūsuke Isōchi'],['Yasunori Koyama'],9.3,3,11.0,1258.0,7.68
+732,"['March 6, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Satoshi Itō'],8.0,5,13.0,1499.0,8.08
+733,"['March 20, 2016']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Toshinori Fukuzawa'],9.2,2,16.0,4549.0,9.38
+734,"['March 27, 2016']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Takagi Masayuki'],['Yoshihiro Ueda'],8.2,2,15.0,1459.0,7.77
+735,"['April 3, 2016']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Kentarō Fujita'],10.0,2,13.0,2020.0,8.51
+736,"['April 10, 2016']",['Shōji Yonemura'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],7.8,4,13.0,3142.0,9.11
+737,"['April 17, 2016']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],9.0,3,5.0,2236.0,8.74
+738,"['April 24, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Shūichi Itō'],['Masahiro Hosoda'],9.1,5,9.0,3123.0,9.14
+739,"['May 1, 2016']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Isamu Takara'],['Satoshi Itō'],8.7,2,13.0,3502.0,9.2
+740,"['May 8, 2016']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Atsuko Kawamura'],['Yoshihiro Ueda'],7.5,6,12.0,1417.0,7.97
+741,"['May 15, 2016']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Kentarō Fujita'],8.8,5,12.0,1333.0,7.8
+742,"['May 22, 2016']",['Shōji Yonemura'],['Miho Shiraishi'],['Takagi Masayuki'],['Katsumi Tokoro'],7.1,4,11.0,1313.0,7.92
+743,"['May 29, 2016']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yasunori Koyama'],6.5,5,13.0,2990.0,9.09
+744,"['June 5, 2016']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],8.2,2,10.0,3310.0,9.22
+745,"['June 12, 2016']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shūichi Itō'],['Yoshihiro Ueda'],8.6,2,15.0,3236.0,9.11
+746,"['June 19, 2016']",['Shōji Yonemura'],['Miho Shiraishi'],['Isamu Takara'],['Masahiro Hosoda'],7.4,5,15.0,2422.0,8.84
+747,"['June 26, 2016']",['Jin Tanaka'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Yoshihiro Ueda'],9.5,3,2.0,1011.0,6.82
+748,"['July 3, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Satoshi Itō'],7.5,2,0.0,928.0,6.55
+749,"['July 10, 2016']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Takagi Masayuki'],['Kentarō Fujita'],8.5,4,0.0,916.0,6.57
+750,"['July 17, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Toshio Deguchi'],['Yoshihiro Ueda'],8.0,2,0.0,1105.0,6.88
+751,"['July 31, 2016']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Katsumi Tokoro'],7.9,5,2.0,1200.0,7.37
+752,"['August 7, 2016']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Tetsuya Endō'],7.4,4,13.0,1183.0,7.93
+753,"['August 21, 2016']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Shūichi Itō'],['Takashi Ōtsuka'],6.8,5,16.0,1183.0,7.73
+754,"['August 28, 2016']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Isamu Takara'],['Yasunori Koyama'],7.0,5,15.0,1104.0,7.87
+755,"['September 4, 2016']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Atsuko Kawamura'],['Masahiro Hosoda'],7.6,4,15.0,1196.0,7.9
+756,"['September 11, 2016']",['Shōji Yonemura'],['Miho Shiraishi'],['Kenji Yokoyama'],['Satoshi Itō'],8.8,4,13.0,1139.0,7.79
+757,"['September 25, 2016']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Takagi Masayuki'],['Yoshihiro Ueda'],7.0,3,11.0,1108.0,7.77
+758,"['October 2, 2016']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Kentarō Fujita'],6.6,4,12.0,1093.0,7.63
+759,"['October 9, 2016']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Katsumi Tokoro'],6.9,3,11.0,1258.0,7.88
+760,"['October 16, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Tetsuya Endō'],6.2,7,14.0,1297.0,7.95
+761,"['October 23, 2016']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],"['Midori Matsuda', 'Kazuya Hisada']",['Yoshihiro Ueda'],6.6,5,13.0,1150.0,7.82
+762,"['October 30, 2016']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shūichi Itō'],['Kentarō Fujita'],6.6,6,10.0,1303.0,8.09
+763,"['November 6, 2016']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Isamu Takara'],['Satoshi Itō'],6.4,6,15.0,1867.0,8.48
+764,"['November 13, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Atsuko Kawamura'],['Yasunori Koyama'],6.8,3,14.0,2016.0,8.68
+765,"['November 20, 2016']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Tatsuya Nagamine'],7.1,6,2.0,1178.0,7.61
+766,"['November 27, 2016']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Kenji Yokoyama'],['Masahiro Hosoda'],7.3,5,15.0,1262.0,7.83
+767,"['December 4, 2016']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Keiichi Ichikawa'],['Toshinori Fukuzawa'],8.2,4,15.0,3344.0,9.25
+768,"['December 11, 2016']",['Jin Tanaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],6.5,7,11.0,1331.0,7.98
+769,"['December 18, 2016']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Katsumi Tokoro'],7.1,4,9.0,2279.0,8.77
+770,"['December 25, 2016']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shūichi Itō'],['Kentarō Fujita'],6.1,4,10.0,3044.0,9.11
+771,"['January 8, 2017']",['Atsuhiro Tomioka'],"['Ryūji Yoshiike', 'Miho Shiraishi']",['Midori Matsuda'],['Satoshi Itō'],7.5,3,11.0,1317.0,8.38
+772,"['January 15, 2017']",['Shōji Yonemura'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Yasunori Koyama'],7.3,6,11.0,1226.0,8.27
+773,"['January 22, 2017']",['Jin Tanaka'],['Ryūji Yoshiike'],['Isamu Takara'],['Yoshihiro Ueda'],8.2,5,10.0,1161.0,8.09
+774,"['January 29, 2017']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Takashi Ōtsuka'],7.1,6,12.0,1315.0,8.17
+775,"['February 5, 2017']",['Hirohiko Kamisaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Masahiro Hosoda'],7.1,6,0.0,1072.0,7.47
+776,"['February 12, 2017']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masayuki Takagi'],['Yasunori Koyama'],6.1,6,15.0,1089.0,7.84
+777,"['February 19, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Katsumi Tokoro'],7.3,5,6.0,1183.0,7.31
+778,"['February 26, 2017']",['Shōji Yonemura'],['Miho Shiraishi'],['Shūichi Itō'],['Yoshihiro Ueda'],7.3,5,23.0,1126.0,7.42
+779,"['March 5, 2017']",['Jin Tanaka'],['Ryūji Yoshiike'],['Yūsuke Isōchi'],['Kentarō Fujita'],6.8,5,12.0,1131.0,7.97
+780,"['March 19, 2017']",['Hirohiko Kamisaka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Satoshi Itō'],5.7,5,0.0,987.0,7.14
+781,"['March 26, 2017']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],"['Midori Matsuda', 'Shūichi Itō']",['Yoshihiro Ueda'],6.6,3,0.0,934.0,6.99
+782,"['April 2, 2017']",['Jin Tanaka'],['Miho Shiraishi'],"['Isamu Takara', 'Kazuya Hisada']",['Satoshi Itō'],6.5,5,0.0,957.0,7.26
+783,"['April 9, 2017']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yasunori Koyama'],7.9,4,10.0,1368.0,7.81
+784,"['April 16, 2017']",['Shōji Yonemura'],['Miho Shiraishi'],['Masayuki Takagi'],['Kentarō Fujita'],5.9,6,10.0,1340.0,7.8
+785,"['April 23, 2017']",['Jin Tanaka'],['Ryūji Yoshiike'],['Yūsuke Isōchi'],['Yusuke Suzuki'],7.2,4,10.0,2124.0,8.48
+786,"['April 30, 2017']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Kenji Yokoyama'],['Toshinori Fukuzawa'],6.6,5,14.0,1482.0,8.23
+787,"['May 7, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Katsumi Tokoro'],6.8,3,11.0,1316.0,7.9
+788,"['May 14, 2017']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Shūichi Itō'],['Yoshihiro Ueda'],7.0,5,10.0,1269.0,7.55
+789,"['May 21, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Isamu Takara'],['Yasunori Koyama'],7.6,3,8.0,1334.0,8.0
+790,"['May 28, 2017']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Toshio Deguchi'],['Miho Hirayama'],6.2,5,15.0,1325.0,7.92
+791,"['June 4, 2017']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Yūsuke Isōchi'],['Kentarō Fujita'],6.2,5,12.0,1160.0,7.37
+792,"['June 11, 2017']",['Shōji Yonemura'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],5.8,7,11.0,1148.0,7.58
+793,"['June 18, 2017']",['Jin Tanaka'],['Ryūji Yoshiike'],['Kimitaka Itō'],['Katsumi Tokoro'],7.0,4,13.0,1411.0,8.39
+794,"['June 25, 2017']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Yusuke Suzuki'],6.1,5,10.0,1353.0,8.05
+795,"['July 2, 2017']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yasunori Koyama'],6.2,5,13.0,1271.0,7.71
+796,"['July 9, 2017']",['Shōji Yonemura'],['Miho Shiraishi'],['Shūichi Itō'],['Satoshi Itō'],6.6,4,14.0,1265.0,7.79
+797,"['July 16, 2017']",['Jin Tanaka'],['Ryūji Yoshiike'],['Isamu Takara'],['Kentarō Fujita'],6.2,3,13.0,1295.0,7.86
+798,"['July 23, 2017']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Toshio Deguchi'],['Yoshihiro Ueda'],6.7,3,11.0,1786.0,8.23
+799,"['July 30, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Katsumi Tokoro'],6.1,5,11.0,2093.0,8.56
+800,"['August 6, 2017']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Kimitaka Itō'],['Yusuke Suzuki'],5.8,5,11.0,2407.0,8.6
+801,"['August 13, 2017']",['Jin Tanaka'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yasunori Koyama'],5.9,2,7.0,1917.0,8.32
+802,"['August 20, 2017']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Isamu Takara'],['Kentarō Fujita'],6.9,5,7.0,2654.0,8.8
+803,"['August 27, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Yoshihiro Ueda'],4.8,6,9.0,3155.0,9.18
+804,"['September 3, 2017']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shūichi Itō'],['Satoshi Itō'],6.7,4,12.0,5382.0,9.48
+805,"['September 17, 2017']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Katsumi Tokoro'],7.6,5,9.0,2874.0,8.91
+806,"['September 24, 2017']",['Jin Tanaka'],['Miho Shiraishi'],"['Yūsuke Isōchi', 'Shingo Fujisaki']",['Miho Hirayama'],6.0,4,14.0,3298.0,9.09
+807,"['October 1, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Takashi Ōtsuka'],4.7,3,2.0,2584.0,8.13
+808,"['October 1, 2017']",['Shōji Yonemura'],['Miho Shiraishi'],"['Kenji Yokoyama', 'Noboru Koizumi']",['Takashi Ōtsuka'],4.7,3,17.0,45775.0,9.69
+809,"['October 15, 2017']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yusuke Suzuki'],6.0,6,9.0,3226.0,8.97
+810,"['October 22, 2017']",['Jin Tanaka'],['Miho Shiraishi'],"['Shigefumi Shingaki', 'Kazuya Hisada']",['Kentarō Fujita'],5.6,6,5.0,3081.0,9.09
+811,"['October 29, 2017']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Shūichi Itō'],['Yasunori Koyama'],6.0,5,9.0,2870.0,8.87
+812,"['November 5, 2017']",['Shōji Yonemura'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],6.1,6,13.0,2726.0,8.8
+813,"['November 12, 2017']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],"['Kimitaka Itō', 'Eisaku Inoue']",['Katsumi Tokoro'],6.6,6,11.0,2110.0,8.56
+814,"['November 19, 2017']",['Jin Tanaka'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Satoshi Itō'],6.4,6,13.0,2091.0,8.53
+815,"['November 26, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Yusuke Suzuki'],6.4,6,6.0,2791.0,8.89
+816,"['December 3, 2017']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Noboru Koizumi'],['Masahiro Hosoda'],5.9,6,1.0,2995.0,9.02
+817,"['December 10, 2017']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Midori Matsuda'],['Miho Hirayama'],6.7,4,6.0,6645.0,9.6
+818,"['December 17, 2017']",['Tomohiro Nakayama'],['Miho Shiraishi'],"['Kenji Yokoyama', 'Fukumoto Yasuko']",['Kentarō Fujita'],6.2,4,9.0,3165.0,9.2
+819,"['December 24, 2017']",['Jin Tanaka'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],5.0,4,11.0,3199.0,9.2
+820,"['January 7, 2018']",['Shōji Yonemura'],['Miho Shiraishi'],['Shingo Fujisaki'],['Yasunori Koyama'],5.6,4,10.0,2962.0,8.89
+821,"['January 14, 2018']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shūichi Itō'],['Yusuke Suzuki'],5.7,6,8.0,2170.0,8.53
+822,"['January 21, 2018']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Kentarō Fujita'],6.4,6,13.0,1596.0,8.04
+823,"['January 28, 2018']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Hiroyuki Satō'],7.1,6,10.0,1929.0,8.34
+824,"['February 4, 2018']",['Shōji Yonemura'],['Miho Shiraishi'],"['Kazuya Hisada', 'Toshio Deguchi']",['Aya Komaki'],6.1,7,9.0,2353.0,8.82
+825,"['February 11, 2018']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Satoshi Itō'],5.6,6,9.0,5138.0,9.49
+826,"['February 18, 2018']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Toshio Deguchi'],['Katsumi Tokoro'],6.4,6,13.0,2826.0,8.91
+827,"['March 4, 2018']",['Kisa Miura'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],5.5,6,13.0,1567.0,8.05
+828,"['March 18, 2018']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Masahiro Hosoda'],5.0,3,14.0,2058.0,8.54
+829,"['March 25, 2018']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shūichi Itō'],['Yasunori Koyama'],6.6,4,10.0,1452.0,8.09
+830,"['April 1, 2018']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Aya Komaki'],5.1,5,10.0,2384.0,8.71
+831,"['April 8, 2018']",['Kisa Miura'],"['Ryūji Yoshiike', 'Yū Saitō']","['Kenji Yokoyama', 'Fukumoto Yasuko']",['Yusuke Suzuki'],5.9,5,15.0,1483.0,8.1
+832,"['April 15, 2018']",['Jin Tanaka'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],6.5,5,15.0,3218.0,9.22
+833,"['April 22, 2018']",['Tomohiro Nakayama'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Hiroyuki Satō'],6.6,6,16.0,5313.0,9.51
+834,"['April 29, 2018']",['Shōji Yonemura'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Satoshi Itō'],5.1,6,15.0,2966.0,9.09
+835,"['May 6, 2018']",['Kisa Miura'],"['Ryūji Yoshiike', 'Yū Saitō']",['Shūichi Itō'],['Katsumi Tokoro'],5.3,4,15.0,2919.0,9.09
+836,"['May 13, 2018']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Toshio Deguchi'],['Yutaka Nakashima'],6.3,6,15.0,1535.0,8.13
+837,"['May 20, 2018']",['Jin Tanaka'],['Ryūji Yoshiike'],"['Kenji Yokoyama', 'Fukumoto Yasuko']",['Masahiro Hosoda'],4.8,6,15.0,2677.0,8.8
+838,"['May 27, 2018']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],6.0,6,13.0,1474.0,8.24
+839,"['June 3, 2018']",['Shōji Yonemura'],"['Yū Saitō', 'Ryūji Yoshiike']","['Masahiro Shimanuki', 'Keiichi Ichikawa']",['Aya Komaki'],5.5,6,15.0,1899.0,8.48
+840,"['June 10, 2018']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Yutaka Nakashima'],6.2,6,13.0,1366.0,8.06
+841,"['June 17, 2018']",['Kisa Miura'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Kōhei Kureta'],5.4,7,12.0,1995.0,8.64
+842,"['June 24, 2018']",['Jin Tanaka'],['Miho Shiraishi'],"['Toshio Deguchi', 'Eisaku Inoue']",['Yusuke Suzuki'],5.6,6,11.0,1987.0,8.65
+843,"['July 1, 2018']",['Tomohiro Nakayama'],['Yū Saitō'],"['Shūichi Itō', 'Kimitaka Itō']",['Takahiro Imamura'],5.0,6,14.0,1303.0,7.93
+844,"['July 8, 2018']",['Shōji Yonemura'],['Miho Shiraishi'],"['Kenji Yokoyama', 'Fukumoto Yasuko']",['Satoshi Itō'],5.3,5,13.0,1263.0,7.87
+845,"['July 15, 2018']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Masayuki Takagi'],['Yoshihiro Ueda'],5.1,4,14.0,1326.0,7.98
+846,"['July 22, 2018']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Yutaka Nakashima'],5.4,6,12.0,1305.0,7.94
+847,"['July 29, 2018']",['Kisa Miura'],['Yū Saitō'],['Shigefumi Shingaki'],['Masahiro Hosoda'],5.4,6,13.0,1310.0,7.94
+848,"['August 5, 2018']",['Tomohiro Nakayama'],['Miho Shiraishi'],"['Kimitaka Itō', 'Eisaku Inoue']",['Hiroyuki Satō'],5.4,6,12.0,1347.0,7.91
+849,"['August 12, 2018']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shūichi Itō'],['Katsumi Tokoro'],5.2,4,9.0,4269.0,9.4
+850,"['August 19, 2018']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Masayuki Takagi'],['Ryōta Nakamura'],6.1,6,13.0,4159.0,9.27
+851,"['August 26, 2018']",['Jin Tanaka'],['Yū Saitō'],['Toshio Deguchi'],['Kōhei Kureta'],4.3,7,13.0,2872.0,8.91
+852,"['September 2, 2018']",['Shōji Yonemura'],['Miho Shiraishi'],"['Kenji Yokoyama', 'Fukumoto Yasuko']",['Aya Komaki'],5.0,7,12.0,2991.0,9.0
+853,"['September 16, 2018']",['Kisa Miura'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],5.0,6,12.0,2130.0,8.53
+854,"['September 23, 2018']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Satoshi Itō'],4.4,4,12.0,2684.0,8.78
+855,"['September 30, 2018']",['Atsuhiro Tomioka'],['Yū Saitō'],"['Kimitaka Itō', 'Eisaku Inoue']",['Yusuke Suzuki'],4.5,5,12.0,2147.0,8.62
+856,"['October 7, 2018']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Toshinori Fukuzawa'],5.0,4,12.0,3871.0,9.29
+857,"['October 14, 2018']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Shūichi Itō'],['Yasunori Koyama'],5.5,5,13.0,2957.0,9.0
+858,"['October 21, 2018']",['Kisa Miura'],['Miho Shiraishi'],"['Kenji Yokoyama', 'Fukumoto Yasuko']",['Takahiro Imamura'],5.3,6,9.0,1553.0,8.05
+859,"['October 28, 2018']",['Tomohiro Nakayama'],['Yū Saitō'],['Toshio Deguchi'],['Yusuke Suzuki'],5.8,5,12.0,1194.0,7.66
+860,"['November 4, 2018']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Yūsuke Isōchi'],['Aya Komaki'],6.6,6,13.0,1384.0,8.08
+861,"['November 11, 2018']",['Jin Tanaka'],['Ryūji Yoshiike'],['Shigefumi Shingaki'],['Katsumi Tokoro'],5.0,6,11.0,1230.0,7.9
+862,"['November 18, 2018']",['Shōji Yonemura'],['Miho Shiraishi'],"['Masahiro Shimanuki', 'Midori Matsuda']",['Hiroyuki Satō'],5.6,6,4.0,3280.0,9.11
+863,"['November 25, 2018']",['Kisa Miura'],['Yū Saitō'],['Masayuki Takagi'],['Yoshihiro Ueda'],4.9,6,13.0,1455.0,8.3
+864,"['December 9, 2018']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Yutaka Nakashima'],4.9,6,14.0,2924.0,9.02
+865,"['December 16, 2018']",['Jin Tanaka'],['Ryūji Yoshiike'],"['Kenji Yokoyama', 'Fukumoto Yasuko']",['Yusuke Suzuki'],4.9,6,11.0,2075.0,8.64
+866,"['December 23, 2018']",['Shōji Yonemura'],['Miho Shiraishi'],['Toshio Deguchi'],['Yoshihiro Ueda'],5.7,3,12.0,1565.0,8.2
+867,"['January 6, 2019']",['Kisa Miura'],['Yū Saitō'],"['Kimitaka Itō', 'Eisaku Inoue']",['Masahiro Hosoda'],4.7,4,14.0,2278.0,8.6
+868,"['January 13, 2019']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shūichi Itō'],['Aya Komaki'],5.0,4,12.0,5399.0,9.49
+869,"['January 20, 2019']",['Jin Tanaka'],['Ryūji Yoshiike'],"['Kazuya Hisada', 'Yūsuke Isōchi']",['Katsumi Tokoro'],6.0,6,5.0,3880.0,9.29
+870,"['January 27, 2019']",['Shōji Yonemura'],['Miho Shiraishi'],['Masahiro Shimanuki'],['Kōhei Kureta'],5.2,7,15.0,22338.0,9.7
+871,"['February 3, 2019']",['Tomohiro Nakayama'],['Yū Saitō'],['Shigefumi Shingaki'],['Yutaka Nakashima'],5.6,4,16.0,10434.0,9.48
+872,"['February 10, 2019']",['Jin Tanaka'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Yoshihiro Ueda'],4.5,7,15.0,2940.0,8.91
+873,"['February 17, 2019']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Kenji Yokoyama'],['Satoshi Itō'],4.7,6,15.0,3109.0,9.0
+874,"['February 24, 2019']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masayuki Takagi'],['Yoshihiro Ueda'],5.5,6,15.0,2196.0,8.62
+875,"['March 3, 2019']",['Jin Tanaka'],['Yū Saitō'],['Toshio Deguchi'],['Aya Komaki'],5.7,5,16.0,2267.0,8.63
+876,"['March 17, 2019']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shūichi Itō'],['Masahiro Hosoda'],5.4,6,15.0,2970.0,8.91
+877,"['March 24, 2019']",['Shōji Yonemura'],['Ryūji Yoshiike'],['Yūsuke Isōchi'],['Toshinori Fukuzawa'],5.0,4,16.0,5287.0,9.4
+878,"['March 31, 2019']",['Shōji Yonemura'],['Miho Shiraishi'],"['Kimitaka Itō', 'Eisaku Inoue']",['Yutaka Nakashima'],5.3,4,23.0,2629.0,8.65
+879,"['April 7, 2019']",['Jin Tanaka'],['Yū Saitō'],['Shigefumi Shingaki'],['Yoshihiro Ueda'],5.7,6,3.0,1339.0,7.92
+880,"['April 14, 2019']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Masahiro Kitazaki'],['Hiroyuki Satō'],5.9,4,13.0,1356.0,7.98
+881,"['April 21, 2019']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Kazuya Hisada'],['Yusuke Suzuki'],5.2,7,2.0,1426.0,6.4
+882,"['April 28, 2019']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Toshio Deguchi'],['Satoshi Itō'],5.1,6,2.0,1289.0,6.71
+883,"['May 5, 2019']",['Shōji Yonemura'],['Yū Saitō'],['Shūichi Itō'],['Katsumi Tokoro'],4.1,4,6.0,1262.0,6.87
+884,"['May 12, 2019']",['Tomohiro Nakayama'],['Miho Shiraishi'],"['Kimitaka Itō', 'Eisaku Inoue']",['Yutaka Nakashima'],4.5,6,8.0,1297.0,6.96
+885,"['May 19, 2019']",['Jin Tanaka'],['Ryūji Yoshiike'],"['Kazuya Hisada', 'Masahiro Shimanuki']",['Yoshihiro Ueda'],5.0,6,15.0,1454.0,7.55
+886,"['May 26, 2019']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Kenji Yokoyama'],['Masahiro Hosoda'],5.1,4,9.0,1296.0,7.58
+887,"['June 2, 2019']",['Shōji Yonemura'],['Yū Saitō'],['Masahiro Kitazaki'],['Yutaka Nakashima'],5.4,6,4.0,1995.0,8.2
+888,"['June 9, 2019']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Katsumi Tokoro'],5.6,6,7.0,1344.0,7.93
+889,"['June 16, 2019']",['Jin Tanaka'],['Ryūji Yoshiike'],['Toshio Deguchi'],['Yoshihiro Ueda'],5.4,6,7.0,1409.0,7.69
+890,"['June 23, 2019']",['Atsuhiro Tomioka'],['Yū Saitō'],"['Kenji Yokoyama', 'Toshio Deguchi']",['Yusuke Suzuki'],6.5,6,5.0,1427.0,7.61
+891,"['June 30, 2019']",['Tomohiro Nakayama'],['Miho Shiraishi'],['Kazuya Hisada'],['Toshinori Fukuzawa'],6.3,4,12.0,2700.0,8.67
+892,"['July 7, 2019']",['Shōji Yonemura'],"['Sadaaki Honma', 'Toshinori Iino']",['Midori Matsuda'],['Tatsuya Nagamine'],5.2 (Original)5.3 (Rerun),5 (Both),11.0,5706.0,9.34
+893,"['July 14, 2019']",['Atsuhiro Tomioka'],"['Sadaaki Honma', 'Midori Tanaka']",['Shūichi Itō'],['Kōhei Kureta'],5.3 (Original)4.1 (Rerun),4 (Original)7 (Rerun),9.0,3387.0,8.93
+894,"['July 21, 2019']",['Jin Tanaka'],"['Sadaaki Honma', 'Guo Wei Huang']","['Yūsuke Isōchi', 'Yukiko Nakatani']",['Aya Komaki'],6.0 (Original)4.4 (Rerun),5 (Original)6 (Rerun),11.0,3499.0,9.13
+895,"['July 28, 2019']",['Atsuhiro Tomioka'],['Ryūji Yoshiike'],['Masahiro Kitazaki'],['Yutaka Nakashima'],4.7 (Original)4.4 (Rerun),5 (Original)6 (Rerun),0.0,1218.0,6.17
+896,"['August 4, 2019']",['Atsuhiro Tomioka'],['Miho Shiraishi'],['Shigefumi Shingaki'],['Hiroyuki Satō'],4.2 (Both),6 (Original)5 (Rerun),0.0,1183.0,6.04
+897,"['August 11, 2019']",['Tomohiro Nakayama'],['Toshinori Iino'],"['Eisaku Inoue', 'Kimitaka Itō']",['Satoshi Itō'],5.2 (Original)4.6 (Rerun),6 (Original)5 (Rerun),11.0,3016.0,8.85
+898,"['August 18, 2019']",['Shinzō Fujita'],"['Natsuko Tosugi', 'Yū Saitō']",['Masahiro Shimanuki'],['Yasunori Koyama'],4.2 (Original)3.7 (Rerun),4 (Original)7 (Rerun),9.0,2399.0,8.55
+899,"['August 25, 2019']",['Akiko Inoue'],['Toshinori Iino'],['Toshio Deguchi'],['Yusuke Suzuki'],4.6 (Original)3.6 (Rerun),6 (Original)9 (Rerun),8.0,3595.0,9.09
+900,"['September 1, 2019']",['Shōji Yonemura'],['Guo Wei Huang'],['Kenji Yokoyama'],['Tasuku Shimaya'],6.2 (Original)4.1 (Rerun),6 (Original)5 (Rerun),11.0,2781.0,8.6
+901,"['September 8, 2019']",['Jin Tanaka'],"['Guo Wei Huang', 'Midori Tanaka']",['Kazuya Hisada'],['Satoshi Itō'],5.6,5,9.0,1616.0,7.79
+902,"['September 15, 2019']",['Tomohiro Nakayama'],['Yū Saitō'],['Masahiro Kitazaki'],['Katsumi Tokoro'],4.7,5,12.0,1556.0,7.66
+903,"['September 22, 2019']",['Ryo Yamazaki'],['Sadaaki Honma'],['Shūichi Itō'],['Yusuke Suzuki'],5.4,3,9.0,1506.0,7.3
+904,"['September 29, 2019']",['Shinzō Fujita'],"['Midori Tanaka', 'Tongnian Chen']",['Masayuki Takagi'],['Masahiro Hosoda'],5.7,3,7.0,1449.0,7.09
+905,"['October 6, 2019']",['Akiko Inoue'],['Guo Wei Huang'],['Masahiro Shimanuki'],['Tasuku Shimaya'],5.0,4,11.0,2306.0,8.52
+906,"['October 13, 2019']",['Shōji Yonemura'],['Toshinori Iino'],['Shigefumi Shingaki'],['Yasunori Koyama'],6.5,2,9.0,2248.0,8.6
+907,"['October 20, 2019']",['Shōji Yonemura'],['Ryūji Yoshiike'],"['Kimitaka Itō', 'Eisaku Inoue']",['Kōhei Kureta'],4.6,4,0.0,1267.0,6.5
+908,"['October 27, 2019']",['Jin Tanaka'],['Guo Wei Huang'],['Toshio Deguchi'],['Yutaka Nakashima'],5.3,4,8.0,2296.0,8.54
+909,"['November 10, 2019']",['Tomohiro Nakayama'],['Midori Tanaka'],['Kenji Yokoyama'],['Aya Komaki'],4.8,7,11.0,3178.0,9.0
+910,"['November 17, 2019']",['Shinzō Fujita'],['Midori Tanaka'],['Kazuya Hisada'],['Satoshi Itō'],5.4,4,10.0,3118.0,8.89
+911,"['November 24, 2019']",['Ryo Yamazaki'],['Midori Tanaka'],['Masahiro Kitazaki'],['Daisuke Nakajima'],5.1,4,11.0,2039.0,8.32
+912,"['December 1, 2019']",['Akiko Inoue'],['Guo Wei Huang'],['Masayuki Takagi'],['Masahiro Hosoda'],3.9,7,12.0,4161.0,9.18
+913,"['December 8, 2019']",['Tomohiro Nakayama'],"['Guo Wei Huang', 'Tongnian Chen']",['Eisaku Inoue'],['Yusuke Suzuki'],4.8,5,13.0,4105.0,9.27
+914,"['December 15, 2019']",['Shinzō Fujita'],['Midori Tanaka'],"['Masahiro Shimanuki', 'Kimitaka Itō']",['Yasunori Koyama'],4.5,5,11.0,10471.0,9.57
+915,"['December 22, 2019']",['Ryo Yamazaki'],['Guo Wei Huang'],['Shigefumi Shingaki'],['Katsumi Tokoro'],4.9,5,7.0,8731.0,9.57
+916,"['January 5, 2020']",['Shōji Yonemura'],['Tongnian Chen'],['Shūichi Itō'],['Yutaka Nakashima'],4.6,4,10.0,3342.0,8.94
+917,"['January 12, 2020']",['Jin Tanaka'],['Guo Wei Huang'],['Kenji Yokoyama'],['Aya Komaki'],4.2,5,10.0,3714.0,9.0
+918,"['January 19, 2020']",['Akiko Inoue'],['Yurino Doi'],['Kazuya Hisada'],['Masahiro Hosoda'],3.6,5,11.0,1961.0,8.09
+919,"['January 26, 2020']",['Atsuhiro Tomioka'],['Guo Wei Huang'],"['Yūki Minagawa', 'Yūsuke Isōchi', 'Yukiko Nakatani']",['Satoshi Itō'],4.2,6,9.0,2001.0,8.33
+920,"['February 2, 2020']",['Shinzō Fujita'],['Midori Tanaka'],"['Keita Saitō', 'Toshio Deguchi']",['Yutaka Nakashima'],4.2,6,12.0,1698.0,7.69
+921,"['February 9, 2020']",['Tomohiro Nakayama'],['Toshinori Iino'],['Masahiro Kitazaki'],['Yasunori Koyama'],4.9,4,15.0,1695.0,7.15
+922,"['February 16, 2020']",['Ryo Yamazaki'],['Sadaaki Honma'],['Masayuki Takagi'],['Yusuke Suzuki'],4.8,4,10.0,2133.0,8.12
+923,"['February 23, 2020']",['Shōji Yonemura'],['Midori Tanaka'],['Masahiro Shimanuki'],['Katsumi Tokoro'],4.7,4,11.0,2076.0,8.2
+924,"['March 15, 2020']",['Jin Tanaka'],['Guo Wei Huang'],"['Eisaku Inoue', 'Kimitaka Itō']",['Tasuku Shimaya'],5.0,6,10.0,3259.0,8.89
+925,"['March 22, 2020']",['Akiko Inoue'],['Midori Tanaka'],['Kenji Yokoyama'],['Nanami Michibata'],3.8,6,11.0,3464.0,9.02
+926,"['March 29, 2020']",['Shinzō Fujita'],['Yurino Doi'],['Shūichi Itō'],['Ryōsuke Tanaka'],5.0,7,10.0,1622.0,7.91
+927,"['April 5, 2020']",['Atsuhiro Tomioka'],"['Minoru Ōnishi', 'Sadaaki Honma']","['Shigefumi Shingaki', 'Keiichi Ichikawa']",['Satoshi Itō'],5.3,5,10.0,1455.0,7.72
+928,"['April 12, 2020']",['Tomohiro Nakayama'],"['Minoru Ōnishi', 'Sadaaki Honma']",['Kazuya Hisada'],['Katsumi Tokoro'],5.1,6,12.0,1479.0,7.78
+929,"['April 19, 2020']",['Ryo Yamazaki'],['Tongnian Chen'],"['Eisaku Inoue', 'Kimitaka Itō']",['Yasunori Koyama'],4.7,6,12.0,1442.0,7.64
+930,"['June 28, 2020']",['Shōji Yonemura'],['Guo Wei Huang'],"['Masahiro Shimanuki', 'Shūichi Itō']",['Yusuke Suzuki'],4.4,5,9.0,1624.0,7.75
+931,"['July 5, 2020']",['Akiko Inoue'],['Midori Tanaka'],['Yūsuke Isōchi'],['Yutaka Nakashima'],3.9,6,11.0,1449.0,7.72
+932,"['July 12, 2020']",['Jin Tanaka'],['Yurino Doi'],['Masayuki Takagi'],['Masahiro Hosoda'],4.5,5,10.0,1667.0,8.07
+933,"['July 19, 2020']",['Shinzō Fujita'],['Tongnian Chen'],"['Toshio Deguchi', 'Midori Matsuda']",['Aya Komaki'],4.2,4,11.0,3341.0,8.91
+934,"['July 26, 2020']",['Tomohiro Nakayama'],['Guo Wei Huang'],"['Midori Matsuda', 'Keita Saitō']",['Tatsuya Nagamine'],4.2,7,10.0,5098.0,9.38
+935,"['August 2, 2020']",['Ryo Yamazaki'],['Midori Tanaka'],['Kenji Yokoyama'],['Kenichi Takeshita'],3.9,5,9.0,1812.0,8.29
+936,"['August 9, 2020']",['Shōji Yonemura'],['Yurino Doi'],['Shigefumi Shingaki'],['Tasuku Shimaya'],4.3,4,8.0,1666.0,8.11
+937,"['August 16, 2020']",['Akiko Inoue'],['Tongnian Chen'],['Kazuya Hisada'],['Satoshi Itō'],4.9,4,12.0,1585.0,7.93
+938,"['August 23, 2020']",['Shinzō Fujita'],['Guo Wei Huang'],['Shūichi Itō'],['Yasunori Koyama'],4.4,5,10.0,1463.0,7.88
+939,"['August 30, 2020']",['Jin Tanaka'],['Midori Tanaka'],['Masahiro Shimanuki'],['Yusuke Suzuki'],4.4,4,12.0,2973.0,8.8
+940,"['September 6, 2020']",['Tomohiro Nakayama'],['Toshinori Iino'],"['Eisaku Inoue', 'Kimitaka Itō']",['Yutaka Nakashima'],4.4,5,9.0,5123.0,9.4
+941,"['September 13, 2020']",['Ryo Yamazaki'],['Yurino Doi'],['Masayuki Takagi'],['Katsumi Tokoro'],4.3,5,13.0,3546.0,9.18
+942,"['September 20, 2020']",['Shōji Yonemura'],['Tongnian Chen'],"['Toshio Deguchi', 'Keita Saitō']",['Kōhei Kureta'],4.7,5,11.0,3155.0,8.91
+943,"['September 27, 2020']",['Akiko Inoue'],['Guo Wei Huang'],['Shigefumi Shingaki'],['Tasuku Shimaya'],4.4,4,11.0,2364.0,8.65
+944,"['October 4, 2020']",['Shinzō Fujita'],['Midori Tanaka'],['Kenji Yokoyama'],['Masahiro Hosoda'],4.6,5,7.0,1684.0,7.98
+945,"['October 11, 2020']",['Jin Tanaka'],['Toshinori Iino'],['Kazuya Hisada'],['Yusuke Suzuki'],5.0,7,15.0,2518.0,8.66
+946,"['October 18, 2020']",['Tomohiro Nakayama'],['Yurino Doi'],['Yong-Ce Tu'],['Yutaka Nakashima'],4.5,8,11.0,1661.0,7.87
+947,"['October 25, 2020']",['Ryo Yamazaki'],['Tongnian Chen'],['Ippei Masui'],['Chihiro Kumano'],4.4,6,12.0,1610.0,7.78
+948,"['November 1, 2020']",['Shōji Yonemura'],['Guo Wei Huang'],['Shūichi Itō'],['Yutaka Nakashima'],4.3,5,11.0,1651.0,7.86
+949,"['November 8, 2020']",['Atsuhiro Tomioka'],['Midori Tanaka'],"['Kimitaka Itō', 'Toshio Deguchi']",['Kenichi Takeshita'],4.6,5,12.0,3521.0,9.09
+950,"['November 15, 2020']",['Akiko Inoue'],['Toshinori Iino'],['Masahiro Shimanuki'],['Yasunori Koyama'],4.8,4,11.0,3493.0,8.91
+951,"['November 22, 2020']",['Shinzō Fujita'],['Yurino Doi'],['Masayuki Takagi'],['Satoshi Itō'],4.3,5,9.0,2264.0,8.31
+952,"['November 29, 2020']",['Jin Tanaka'],['Tongnian Chen'],['Shigefumi Shingaki'],['Katsumi Tokoro'],3.9,6,11.0,2617.0,8.74
+953,"['December 6, 2020']",['Tomohiro Nakayama'],['Guo Wei Huang'],['Keita Saitō'],['Ryōsuke Tanaka'],4.4,5,13.0,2655.0,8.62
+954,"['December 13, 2020']",['Tomohiro Nakayama'],['Midori Tanaka'],['Kazuya Hisada'],['Kōhei Kureta'],4.4,6,14.0,2549.0,8.54
+955,"['December 20, 2020']",['Shōji Yonemura'],['Toshinori Iino'],['Kenji Yokoyama'],['Tasuku Shimaya'],4.3,7,13.0,2435.0,8.33
+956,"['December 27, 2020']",['Akiko Inoue'],['Yurino Doi'],"['Midori Matsuda', 'Toshio Deguchi']",['Nanami Michibata'],4.1,5,15.0,3922.0,9.02
+957,"['January 10, 2021']",['Shinzō Fujita'],['Tongnian Chen'],"['Eisaku Inoue', 'Kimitaka Itō']",['Megumi Ishitani'],4.3,6,15.0,14384.0,9.61
+958,"['January 17, 2021']",['Jin Tanaka'],['Guo Wei Huang'],"['Song Hyeonju', 'Han Eunmi', 'Ippei Masui']",['Hikaru Takeuchi'],4.4,5,16.0,10834.0,9.59
+959,"['January 24, 2021']",['Tomohiro Nakayama'],['Midori Tanaka'],['Shūichi Itō'],['Yusuke Suzuki'],4.7,5,20.0,5574.0,9.0
+960,"['January 31, 2021']",['Shōji Yonemura'],['Toshinori Iino'],['Masayuki Takagi'],['Aya Komaki'],4.5,5,22.0,5933.0,8.89
+961,"['February 7, 2021']",['Ryo Yamazaki'],['Yurino Doi'],['Yūsuke Isōchi'],['Toshinori Fukuzawa'],4.5,6,20.0,5404.0,8.92
+962,"['February 14, 2021']",['Atsuhiro Tomioka'],['Tongnian Chen'],['Masahiro Shimanuki'],['Yasunori Koyama'],4.4,4,18.0,5937.0,9.2
+963,"['February 21, 2021']",['Akiko Inoue'],['Guo Wei Huang'],"['Shigefumi Shingaki', 'Yong-Ce Tu']",['Satoshi Itō'],4.4,5,11.0,7330.0,9.4
+964,"['February 28, 2021']",['Shinzō Fujita'],['Midori Tanaka'],"['Toshio Deguchi', 'Keita Saitō']",['Yutaka Nakashima'],4.0,7,10.0,5712.0,9.21
+965,"['March 7, 2021']",['Jin Tanaka'],['Toshinori Iino'],['Kazuya Hisada'],['Kenichi Takeshita'],4.3,5,13.0,15026.0,9.59
+966,"['March 21, 2021']",['Tomohiro Nakayama'],['Yurino Doi'],"['Eisaku Inoue', 'Kimitaka Itō', 'Yong-Ce Tu']",['Tasuku Shimaya'],4.5,3,9.0,8716.0,9.49
+967,"['March 28, 2021']",['Shōji Yonemura'],['Tongnian Chen'],['Kenji Yokoyama'],['Masahiro Hosoda'],4.3,4,9.0,8294.0,9.49
+968,"['April 4, 2021']",['Ryo Yamazaki'],['Guo Wei Huang'],['Shūichi Itō'],['Katsumi Tokoro'],3.8,4,8.0,33055.0,9.61
+969,"['April 11, 2021']",['Atsuhiro Tomioka'],['Midori Tanaka'],"['Ippei Masui', 'Han Eunmi', 'Lee Yeseung', 'Kim Juno', 'Masahiro Kitazaki']",['Takaaki Ishiyama'],4.3,5,12.0,7339.0,9.4
+970,"['April 18, 2021']",['Akiko Inoue'],['Toshinori Iino'],['Masayuki Takagi'],['Yusuke Suzuki'],4.1,5,11.0,5305.0,9.07
+971,"['April 25, 2021']",['Shinzō Fujita'],['Yurino Doi'],['Masahiro Shimanuki'],['Yasunori Koyama'],4.2,4,11.0,5202.0,9.19
+972,"['May 2, 2021']",['Jin Tanaka'],['Tongnian Chen'],['Yong-Ce Tu'],['Ryōsuke Tanaka'],3.8,6,12.0,9111.0,9.51
+973,"['May 9, 2021']",['Tomohiro Nakayama'],['Guo Wei Huang'],['Shigefumi Shingaki'],['Satoshi Itō'],3.7,5,11.0,6328.0,9.37
+974,"['May 16, 2021']",['Shōji Yonemura'],['Midori Tanaka'],"['Keita Saitō', 'Toshio Deguchi']",['Yutaka Nakashima'],4.0,4,14.0,15418.0,9.69
+975,"['May 23, 2021']",['Ryo Yamazaki'],['Toshinori Iino'],['Kazuya Hisada'],['Katsumi Tokoro'],3.9,5,12.0,6139.0,9.38
+976,"['May 30, 2021']",['Atsuhiro Tomioka'],['Yurino Doi'],"['Eisaku Inoue', 'Kimitaka Itō']",['Tasuku Shimaya'],4.1,4,10.0,5296.0,9.2
+977,"['June 6, 2021']",['Akiko Inoue'],['Tongnian Chen'],['Kenji Yokoyama'],['Masahiro Hosoda'],4.3,4,10.0,7602.0,9.49
+978,"['June 13, 2021']",['Shinzō Fujita'],['Toshinori Iino'],"['Shūichi Itō', 'Midori Matsuda']",['Kōhei Kureta'],3.8,5,8.0,8161.0,9.49
+979,"['June 20, 2021']",['Jin Tanaka'],['Yurino Doi'],"['Shinichi Suzuki', 'Song Hyeonju', 'Lee Yeseung', 'Kim Yujin']",['Toshihiro Maeya'],4.5,4,10.0,4861.0,8.98
+980,"['June 27, 2021']",['Tomohiro Nakayama'],['Midori Tanaka'],"['Masayuki Takagi', 'Eisaku Inoue']",['Kenichi Takeshita'],3.5,5,11.0,4815.0,9.11
+981,"['July 4, 2021']",['Shōji Yonemura'],['Tongnian Chen'],"['Masahiro Shimanuki', 'Shigenori Taniguchi']",['Yusuke Suzuki'],3.9,3,5.0,5043.0,9.09
+982,"['July 11, 2021']",['Ryo Yamazaki'],['Guo Wei Huang'],"['Yong-Ce Tu', 'Keita Saitō', 'Masahiro Kitazaki']",['Megumi Ishitani'],4.2,4,9.0,19874.0,9.61
+983,"['July 18, 2021']",['Atsuhiro Tomioka'],['Midori Tanaka'],"['Toshio Deguchi', 'Shingo Fujisaki']",['Nanami Michibata'],3.7,4,10.0,3558.0,8.45
+984,"['July 25, 2021']",['Shōji Yonemura'],['Toshinori Iino'],['Shigefumi Shingaki'],['Yasunori Koyama'],3.1,6,7.0,3042.0,7.65
+985,"['August 1, 2021']",['Shinzō Fujita'],['Tongnian Chen'],['Kazuya Hisada'],['Katsumi Tokoro'],3.8,4,9.0,2770.0,7.89
+986,"['August 8, 2021']",['Jin Tanaka'],['Yurino Doi'],"['Majiro', 'Shaolei Li', 'Lee Shaolei', 'Feng Cheng Hu']",['Shigeyasu Yamauchi'],4.3,4,10.0,2687.0,7.64
+987,"['August 15, 2021']",['Tomohiro Nakayama'],['Guo Wei Huang'],['Kenji Yokoyama'],['Yutaka Nakashima'],4.5,5,11.0,2842.0,8.08
+988,"['August 22, 2021']",['Shōji Yonemura'],['Midori Tanaka'],['Shūichi Itō'],['Tasuku Shimaya'],4.1,4,7.0,3895.0,8.82
+989,"['August 29, 2021']",['Ryo Yamazaki'],['Toshinori Iino'],['Kimitaka Itō'],['Kōhei Kureta'],4.4,5,3.0,2896.0,8.28
+990,"['September 5, 2021']",['Atsuhiro Tomioka'],['Tongnian Chen'],"['Masahiro Kitazaki', 'Yong-Ce Tu']",['Tatsuya Nagamine'],4.3,7,10.0,4094.0,8.89
+991,"['September 12, 2021']",['Akiko Inoue'],['Yurino Doi'],"['Toshio Deguchi', 'Keita Saitō']",['Yusuke Suzuki'],4.3,7,7.0,2820.0,7.97
+992,"['September 19, 2021']",['Shinzō Fujita'],['Guo Wei Huang'],['Shinichi Suzuki'],['Toshihiro Maeya'],4.1,7,11.0,4111.0,8.94
+993,"['September 26, 2021']",['Jin Tanaka'],['Midori Tanaka'],['Masayuki Takagi'],['Masahiro Hosoda'],4.2,5,10.0,2669.0,7.91
+994,"['October 3, 2021']",['Tomohiro Nakayama'],['Momoko Fujikura'],['Masahiro Shimanuki'],['Yasunori Koyama'],3.5,5,9.0,4637.0,9.0
+995,"['October 10, 2021']",['Shōji Yonemura'],['Tongnian Chen'],['Shigefumi Shingaki'],['Satoshi Itō'],4.1,5,12.0,9149.0,9.6
+996,"['October 24, 2021']",['Ryo Yamazaki'],['Yurino Doi'],['Kazuya Hisada'],['Yutaka Nakashima'],4.1,6,11.0,4632.0,9.18
+997,"['October 31, 2021']",['Akiko Inoue'],['Guo Wei Huang'],['Kenji Yokoyama'],['Katsumi Tokoro'],3.9,7,7.0,4173.0,8.87
+998,"['November 7, 2021']",['Shinzō Fujita'],['Momoko Fujikura'],['Shūichi Itō'],['Kenichi Takeshita'],3.9,6,9.0,4182.0,8.91
+999,"['November 14, 2021']",['Jin Tanaka'],['Midori Tanaka'],"['Kimitaka Itō', 'Toshio Deguchi']",['Yusuke Suzuki'],3.9,6,9.0,3247.0,8.27
+1000,"['November 21, 2021']",['Shōji Yonemura'],['Tongnian Chen'],"['Yong-Ce Tu', 'Midori Matsuda', 'Keiichi Ichikawa']",['Kōhei Kureta'],4.2,5,8.0,11642.0,9.35
+1001,"['November 28, 2021']",['Tomohiro Nakayama'],['Yurino Doi'],"['Keita Saitō', 'Masahiro Kitazaki']",['Tasuku Shimaya'],3.3,7,11.0,5000.0,8.88
+1002,"['December 5, 2021']",['Ryo Yamazaki'],['Momoko Fujikura'],['Shinichi Suzuki'],['Toshihiro Maeya'],3.9,6,10.0,3214.0,7.82
+1003,"['December 12, 2021']",['Atsuhiro Tomioka'],['Guo Wei Huang'],['Masayuki Takagi'],['Nanami Michibata'],3.6,7,6.0,3957.0,8.34
+1004,"['December 19, 2021']",['Akiko Inoue'],['Tongnian Chen'],['Masahiro Shimanuki'],['Yasunori Koyama'],3.7,7,13.0,5631.0,8.85
+1005,"['January 9, 2022']",['Shinzō Fujita'],['Yurino Doi'],['Shigefumi Shingaki'],['Shō Inuzuka'],3.4,7,7.0,6899.0,6.86
+1006,"['January 16, 2022']",['Jin Tanaka'],['Midori Tanaka'],['Kazuya Hisada'],['Ryōsuke Tanaka'],4.0,7,10.0,5828.0,6.96
+1007,"['January 23, 2022']",['Tomohiro Nakayama'],['Momoko Fujikura'],['Kenji Yokoyama'],['Katsumi Tokoro'],4.0,6,8.0,4569.0,6.76
+1008,"['January 30, 2022']",['Shōji Yonemura'],['Guo Wei Huang'],['Shūichi Itō'],['Tasuku Shimaya'],3.5,7,1.0,4131.0,7.48
+1009,"['February 6, 2022']",['Ryo Yamazaki'],['Yurino Doi'],"['Kimitaka Itō', 'Toshio Deguchi']",['Yusuke Suzuki'],4.0,6,11.0,3635.0,7.25
+1010,"['February 13, 2022']",['Akiko Inoue'],['Tongnian Chen'],"['Midori Matsuda', 'Kazuya Hisada', 'Shigenori Taniguchi']",['Kōhei Kureta'],3.9,6,9.0,3583.0,8.24
+1011,"['February 20, 2022']",['Shinzō Fujita'],['Midori Tanaka'],"['Keita Saitō', 'Masahiro Kitazaki']",['Masahiro Hosoda'],4.0,4,4.0,3012.0,7.86
+1012,"['February 27, 2022']",['Jin Tanaka'],['Toshinori Iino'],['Shinichi Suzuki'],['Toshihiro Maeya'],3.6,7,9.0,2951.0,7.75
+1013,"['March 6, 2022']",['Tomohiro Nakayama'],['Guo Wei Huang'],['Masayuki Takagi'],['Ryōta Nakamura'],4.2,5,10.0,4569.0,8.91
+1014,"['April 17, 2022']",['Shōji Yonemura'],"['Midori Tanaka', 'Dhavee Morato']",['Masahiro Shimanuki'],['Katsumi Tokoro'],2.9,7,10.0,4011.0,8.47
+1015,"['April 24, 2022']",['Ryo Yamazaki'],['Tongnian Chen'],"['Keisuke Mori', 'Kimitaka Itō', 'Takashi Kojima', 'Takumi Yamamoto']",['Megumi Ishitani'],3.4,6,14.0,92485.0,9.7
+1016,"['May 8, 2022']",['Atsuhiro Tomioka'],['Yurino Doi'],['Shigefumi Shingaki'],['Yasunori Koyama'],3.2,8,11.0,7424.0,9.24
+1017,"['May 15, 2022']",['Akiko Inoue'],['Toshinori Iino'],['Yong-Ce Tu'],"['Kōhei Kureta', 'Nanami Michibata']",3.4,4,19.0,23981.0,9.6
+1018,"['May 22, 2022']",['Shinzō Fujita'],['Guo Wei Huang'],['Kenji Yokoyama'],['Kenichi Takeshita'],3.3,5,15.0,5470.0,8.91
+1019,"['May 29, 2022']",['Jin Tanaka'],['Midori Tanaka'],"['Keita Saitō', 'Toshio Deguchi']",['Ryōsuke Tanaka'],3.5,5,11.0,2783.0,7.87
+1020,"['June 5, 2022']",['Tomohiro Nakayama'],['Tongnian Chen'],['Kazuya Hisada'],['Tasuku Shimaya'],3.1,6,12.0,3055.0,7.89
+1021,"['June 12, 2022']",['Atsuhiro Tomioka'],['Guo Wei Huang'],['Shūichi Itō'],['Masahiro Hosoda'],3.5,5,11.0,2737.0,7.91
+1022,"['June 19, 2022']",['Ryo Yamazaki'],['Toshinori Iino'],['Masayuki Takagi'],['Yusuke Suzuki'],3.1,5,11.0,2496.0,8.01
+1023,"['July 3, 2022']",['Atsuhiro Tomioka'],"['Midori Tanaka', 'Dhavee Morato']",['Shinichi Suzuki'],['Toshihiro Maeya'],3.1,4,11.0,2409.0,7.74
+1024,"['July 10, 2022']",['Akiko Inoue'],['Yurino Doi'],['Masahiro Shimanuki'],['Shō Inuzuka'],3.5,4,6.0,2585.0,7.96
+1025,"['July 17, 2022']",['Shinzō Fujita'],['Eiji Hamano'],['Shigefumi Shingaki'],['Katsumi Tokoro'],3.1,5,12.0,4968.0,8.96
+1026,"['July 24, 2022']",['Jin Tanaka'],['Tongnian Chen'],"['Masahiro Kitazaki', 'Kimitaka Itō', 'Yong-Ce Tu', 'Toshio Deguchi']",['Ryōta Nakamura'],3.2,5,3.0,7555.0,9.49
+1027,"['July 31, 2022']",['Tomohiro Nakayama'],['Momoko Fujikura'],"['Midori Matsuda', 'Keita Saitō']",['Tatsuya Nagamine'],3.4,6,10.0,8225.0,9.54
+1028,"['August 7, 2022']",['Shōji Yonemura'],['Guo Wei Huang'],['Kazuya Hisada'],['Yasunori Koyama'],3.4,5,6.0,12571.0,9.66
+1029,"['August 14, 2022']",['Akiko Inoue'],['Takafumi Mizuno'],"['Shaolei Li', 'Takuya Imakado', 'Huan Ge', 'STUDIO MASSKET']",['Shigeyasu Yamauchi'],3.5,5,0.0,2856.0,7.32
+1030,"['August 21, 2022']",['Ryo Yamazaki'],['Takafumi Mizuno'],['Kenji Yokoyama'],['Katsumi Tokoro'],3.9,4,0.0,3265.0,7.95
+1031,"['September 4, 2022']",['Ryo Yamazaki'],"['Midori Tanaka', 'Erwin Sadia']",['Shūichi Itō'],['Satoshi Itō'],3.8,4,2.0,3585.0,8.2
+1032,"['September 11, 2022']",['Atsuhiro Tomioka'],"['Toshinori Iino', 'Dino Santos']",['Masayuki Takagi'],['Tasuku Shimaya'],3.3,6,5.0,3304.0,8.08
+1033,"['September 18, 2022']",['Akiko Inoue'],"['Yurino Doi', 'Dhavee Morato']","['Masahiro Kitazaki', 'Kimitaka Itō', 'Yong-Ce Tu']",['Ryōsuke Tanaka'],3.7,4,8.0,10958.0,9.56
+1034,"['September 25, 2022']",['Shinzō Fujita'],"['Tongnian Chen', 'Erwin Sadia']","['Masahiko Inuzuka', 'Satohiko Sano']",['Satohiko Sano'],3.4,4,10.0,3145.0,8.12
+1035,"['October 2, 2022']",['Jin Tanaka'],['Momoko Fujikura'],['Masahiro Shimanuki'],['Shō Inuzuka'],3.8,5,11.0,3415.0,8.05
+1036,"['October 16, 2022']",['Tomohiro Nakayama'],"['Midori Tanaka', 'Dino Santos']",['Shigefumi Shingaki'],['Yusuke Suzuki'],3.4,5,11.0,5127.0,8.95
+1037,"['October 23, 2022']",['Shōji Yonemura'],"['Yurino Doi', 'Dhavee Morato']","['Keita Saitō', 'Toshio Deguchi']",['Masahiro Hosoda'],3.4,6,10.0,2807.0,7.76
+1038,"['October 30, 2022']",['Ryo Yamazaki'],"['Toshinori Iino', 'Tongnian Chen', 'Erwin Sadia']",['Kazuya Hisada'],['Nanami Michibata'],3.7,4,10.0,3392.0,8.49
+1039,"['November 6, 2022']",['Atsuhiro Tomioka'],"['Nagisa Nishida', 'Dino Santos']",['Kenji Yokoyama'],['Kenichi Takeshita'],3.6,5,11.0,2884.0,8.05
+1040,"['November 13, 2022']",['Akiko Inoue'],['Takafumi Mizuno'],['Shūichi Itō'],['Katsumi Tokoro'],3.7,4,14.0,3502.0,8.65
+1041,"['November 20, 2022']",['Shinzō Fujita'],"['Toshinori Iino', 'Dhavee Morato']",['Masayuki Takagi'],['Tasuku Shimaya'],3.5,5,9.0,2726.0,7.67
+1042,"['November 27, 2022']",['Jin Tanaka'],"['Tongnian Chen', 'Erwin Sadia']","['Shaolei Li', 'Takuya Imakado', 'Mami Kotoku', 'Zhenlei Cheng', 'STUDIO MASSKET']",['Shigeyasu Yamauchi'],3.5,5,9.0,2847.0,7.45
+1043,"['December 4, 2022']",['Tomohiro Nakayama'],['Momoko Fujikura'],['Masahiro Kitazaki'],['Shō Matsui'],3.2,6,11.0,3029.0,8.28
+1044,"['December 11, 2022']",['Shōji Yonemura'],['Takafumi Mizuno'],"['Masahiro Shimanuki', 'Ziwei He']",['Yasunori Koyama'],3.6,7,12.0,6355.0,9.36
+1045,"['December 18, 2022']",['Atsuhiro Tomioka'],"['Midori Tanaka', 'Jun Golez']",['Shigefumi Shingaki'],['Yūji Tokuno'],3.9,4,12.0,5272.0,9.01
+1046,"['January 8, 2023']",['Shinzō Fujita'],"['Toshinori Iino', 'Dino Santos']","['Keita Saitō', 'Toshio Deguchi']",['Shō Inuzuka'],3.4,7,11.0,10404.0,9.37
+1047,"['January 15, 2023']",['Jin Tanaka'],"['Nagisa Nishida', 'Dhavee Morato']",['Kazuya Hisada'],['Yutaka Nakashima'],3.8,4,11.0,5059.0,7.98
+1048,"['January 22, 2023']",['Tomohiro Nakayama'],"['Yurino Doi', 'Erwin Sadia']",['Kenji Yokoyama'],['Ryōsuke Tanaka'],3.5,4,11.0,7720.0,9.08
+1049,"['January 29, 2023']",['Shōji Yonemura'],"['Tongnian Chen', 'Jun Golez']",['Shūichi Itō'],['Yusuke Suzuki'],3.7,6,13.0,10365.0,9.4
+1050,"['February 5, 2023']",['Ryo Yamazaki'],"['Toshinori Iino', 'Dino Santos']",['Masayuki Takagi'],['Masahiro Hosoda'],3.8,5,11.0,5197.0,8.32
+1051,"['February 12, 2023']",['Atsuhiro Tomioka'],"['Midori Tanaka', 'Dhavee Morato']","['Masahiro Kitazaki', 'Yong-Ce Tu(Assistant)']",['Wataru Matsumi'],3.9,4,11.0,8020.0,9.2
+1052,"['February 19, 2023']",['Akiko Inoue'],"['Yurino Doi', 'Erwin Sadia']",['Masahiro Shimanuki'],['Tasuku Shimaya'],3.4,5,11.0,4517.0,8.23
+1053,"['February 26, 2023']",['Shinzō Fujita'],"['Tongnian Chen', 'Dino Santos']",['Shigefumi Shingaki'],['Katsumi Tokoro'],3.5,7,5.0,5341.0,8.21
+1054,"['March 19, 2023']",['Jin Tanaka'],"['Toshinori Iino', 'Jun Golez']","['Keita Saitō', 'Toshio Deguchi']","['Yūji Tokuno', 'Yasunori Koyama']",3.3,7,12.0,4982.0,8.88
+1055,"['March 26, 2023']",['Tomohiro Nakayama'],"['Midori Tanaka', 'Erwin Sadia']",['Kazuya Hisada'],['Hazuki Omoya'],3.4,5,11.0,4311.0,7.68
+1056,"['April 2, 2023']",['Shōji Yonemura'],"['Nagisa Nishida', 'Dino Santos']","['Masahiro Kitazaki', 'Kimitaka Itō']",['Shō Matsui'],3.3,6,7.0,4992.0,8.8
+1057,"['April 9, 2023']",['Ryo Yamazaki'],['Dhavee Morato'],['Kenji Yokoyama'],['Nanami Michibata'],3.2,10,11.0,4938.0,8.69
+1058,"['April 16, 2023']",['Atsuhiro Tomioka'],['Tongnian Chen'],['Shūichi Itō'],['Shō Inuzuka'],3.1,8,3.0,4169.0,7.8
+1059,"['April 23, 2023']",['Akiko Inoue'],"['Toshinori Iino', 'Dino Santos']",['Masayuki Takagi'],['Yusuke Suzuki'],3.4,6,11.0,4958.0,8.36
+1060,"['April 30, 2023']",['Shinzō Fujita'],"['Yurino Doi', 'Erwin Sadia']","['Masahiro Shimanuki', 'Midori Matsuda']",['Tasuku Shimaya'],3.6,6,8.0,9207.0,9.2
+1061,"['May 7, 2023']",['Jin Tanaka'],['Nagisa Nishida'],"['Shigefumi Shingaki', 'Yong-Ce Tu']",['Ryōta Nakamura'],3.5,6,3.0,34735.0,9.59
+1062,"['May 21, 2023']",['Tomohiro Nakayama'],['Dhavee Morato'],"['Keita Saitō', 'Midori Matsuda', 'Katsumi Ishizuka']",['Ryōsuke Tanaka'],3.7,4,15.0,105637.0,9.69
+1063,"['May 28, 2023']",['Shōji Yonemura'],"['Tongnian Chen', 'Jason dela Cruz']",['Toshio Deguchi'],['Masahiro Hosoda'],3.2,5,13.0,6305.0,8.28
+1064,"['June 4, 2023']",['Ryo Yamazaki'],['Momoko Fujikura'],['Kazuya Hisada'],['Katsumi Tokoro'],2.7,8,15.0,6516.0,8.8
+1065,"['June 11, 2023']",['Atsuhiro Tomioka'],"['Midori Tanaka', 'Elton Ongjoco']","['Shigefumi Shingaki', 'Kimitaka Itō']",['Hazuki Omoya'],3.2,7,15.0,6050.0,8.48
+1066,"['June 25, 2023']",['Akiko Inoue'],['Nagisa Nishida'],"['Masahiro Kitazaki', 'Henry Thurlow(Assistant)', 'Kimitaka Itō(Assistant)']",['Henry Thurlow[note 1]'],3.2,5,16.0,19292.0,9.58
+1067,"['July 2, 2023']",['Shinzō Fujita'],['Dhavee Morato'],['Kenji Yokoyama'],['Kenichi Takeshita'],3.5,3,13.0,12961.0,9.29
+1068,"['July 9, 2023']",['Jin Tanaka'],['Momoko Fujikura'],"['Masahiro Shimanuki', 'Toshio Deguchi']",['Shō Matsui'],2.9,7,1.0,10795.0,8.91
+1069,"['July 16, 2023']",['Tomohiro Nakayama'],['Tongnian Chen'],['Masayuki Takagi'],['Shō Inuzuka'],3.1,4,16.0,15338.0,9.29
+1070,"['July 30, 2023']",['Ryo Yamazaki'],"['Midori Tanaka', 'Jason dela Cruz']",['Shūichi Itō'],['Yusuke Suzuki'],3.5,5,15.0,27626.0,9.31
+1071,"['August 6, 2023']",['Atsuhiro Tomioka'],['Nagisa Nishida'],"['Midori Matsuda', 'Keita Saitō']",['Tatsuya Nagamine'],3.9,4,15.0,82131.0,9.18
+1072,"['August 13, 2023']",['Akiko Inoue'],['Dhavee Morato'],"['Nobuyuki Iwai', 'Keisuke Mori', 'Kimitaka Itō', 'Shigefumi Shingaki', 'Yong-Ce Tu(Assistant)', 'Ryō Ōnishi(Assistant)', 'Bahi JD(Assistant)', 'Akihiro Ota(Assistant)', 'Masayuki Sato(Assistant)']",['Tasuku Shimaya'],3.5,4,17.0,36362.0,9.37
+1073,"['August 20, 2023']",['Shinzō Fujita'],['Tongnian Chen'],['Mamoru Yokota'],['Katsumi Tokoro'],3.5,4,13.0,15440.0,7.89
+1074,"['September 3, 2023']",['Jin Tanaka'],"['Yurino Doi', 'Uli Samañiego']","['Kazuya Hisada', 'Hone Hone', 'Shū Sugita']",['Nanami Michibata'],3.5,5,16.0,60381.0,9.48
+1075,"['September 10, 2023']",['Tomohiro Nakayama'],['Momoko Fujikura'],"['Yong-Ce Tu', 'Masahiro Kitazaki']",['Yasunori Koyama'],3.5,5,15.0,19839.0,8.93
+1076,"['September 17, 2023']",['Shōji Yonemura'],['Nagisa Nishida'],"['Yong-Ce Tu', 'Ziwei He']",['Satoshi Itō'],3.1,5,15.0,26688.0,9.46
+1077,"['September 24, 2023']",['Ryo Yamazaki'],['Dhavee Morato'],"['Toshio Deguchi', 'Masahiro Shimanuki']",['Hazuki Omoya'],3.8,4,15.0,7419.0,8.68
+1078,"['October 1, 2023']",['Atsuhiro Tomioka'],['Tongnian Chen'],['Kenji Yokoyama'],['Toshinori Fukuzawa'],3.2,7,15.0,5949.0,8.82
+1079,"['October 15, 2023']",['Akiko Inoue'],['Dino Santos'],['Masayuki Takagi'],['Yusuke Suzuki'],3.3,5,15.0,5087.0,8.54
+1080,"['October 22, 2023']",['Shinzō Fujita'],['Midori Tanaka'],"['Shūichi Itō', 'Toshio Deguchi', 'Katsumi Ishizuka(Assistant)', 'Kenji Yokoyama(Assistant)']",['Ryōta Nakamura'],3.5,4,14.0,6493.0,8.97
+1081,"['October 29, 2023']",['Jin Tanaka'],['Momoko Fujikura'],['Shigefumi Shingaki'],['Shō Matsui'],3.6,6,18.0,7409.0,9.04
+1082,"['November 5, 2023']",['Tomohiro Nakayama'],['Dhavee Morato'],"['Keita Saitō', 'Kimitaka Itō']",['Shō Inuzuka'],3.5,5,16.0,7121.0,8.5
+1083,"['November 12, 2023']",['Shōji Yonemura'],['Tongnian Chen'],['Kazuya Hisada'],['Katsumi Tokoro'],3.3,8,15.0,4612.0,8.18
+1084,"['November 19, 2023']",['Shōji Yonemura'],['Dino Santos'],['Masahiro Kitazaki'],['Kenichi Takeshita'],3.5,7,0.0,4429.0,8.11
+1085,"['November 26, 2023']",['Ryo Yamazaki'],['Nagisa Nishida'],['Mamoru Yokota'],['Toshinori Fukuzawa'],3.4,7,15.0,4882.0,8.58
+1086,"['December 3, 2023']",['Atsuhiro Tomioka'],['Momoko Fujikura'],['Masahiro Shimanuki'],['Tasuku Shimaya'],3.2,9,13.0,5883.0,9.12
+1087,"['December 10, 2023']",['Akiko Inoue'],['Dhavee Morato'],"['Yong-Ce Tu', 'Toshio Deguchi']",['Hazuki Omoya'],3.2,7 (Tied with Crayon Shin,11.0,6522.0,9.25
+1088,"['December 17, 2023']",['Shinzō Fujita'],['Tongnian Chen'],['Kenji Yokoyama'],['Tatsuya Nagamine'],3.2,8,10.0,7494.0,9.16
+1089,"['January 7, 2024']",['Jin Tanaka'],"['Guo Wei Huang', 'Dino Santos']","['Ziwei He', 'Keisuke Mori', 'Shūichi Itō', 'Midori Matsuda']",['Nozomu Shishido'],3.3,8,8.0,37807.0,9.59
+1090,"['January 14, 2024']",['Tomohiro Nakayama'],['Momoko Fujikura'],['Masayuki Takagi'],['Yusuke Suzuki'],3.7,8,11.0,6305.0,8.52
+1091,"['January 21, 2024']",['Shōji Yonemura'],"['Midori Tanaka', 'Nagisa Nishida']","['Keita Saitō', 'Kimitaka Itō']",['Shō Matsui'],3.2,7 (Tied with Crayon Shin,13.0,5126.0,8.37
+1092,"['January 28, 2024']",['Ryo Yamazaki'],['Dhavee Morato'],['Shigefumi Shingaki'],['Katsumi Tokoro'],3.5,5,8.0,5090.0,8.53
+1093,"['February 11, 2024']",['Atsuhiro Tomioka'],['Tongnian Chen'],"['Kazuya Hisada', 'Katsumi Ishizuka']",['Shō Inuzuka'],2.9,7,18.0,19686.0,9.59
+1094,"['February 18, 2024']",['Akiko Inoue'],['Dino Santos'],['Masahiro Kitazaki'],['Yasuhiro Tanabe'],3.1,10,11.0,4553.0,8.16
+1095,"['February 25, 2024']",['Shinzō Fujita'],['Momoko Fujikura'],"['Toshio Deguchi', 'RA CRAFT', 'Grand Guerrilla']",['Eri Hyun'],3.0,8 (Tied with Let's Go! Anpanman) *,11.0,4398.0,8.17
+1096,"['March 3, 2024']",['Jin Tanaka'],"['Natsuki Takeda', 'Nagisa Nishida']",['Masahiro Shimanuki'],['Tasuku Shimaya'],3.2,7,7.0,5414.0,8.96
+1097,"['March 17, 2024']",['Tomohiro Nakayama'],['Dhavee Morato'],['Kenji Yokoyama'],['Hazuki Omoya'],3.1,6,12.0,4548.0,8.76
+1098,"['March 24, 2024']",['Shōji Yonemura'],['Tongnian Chen'],['Shūichi Itō'],['Toshinori Fukuzawa'],3.1,5,13.0,3982.0,8.48
+1099,"['March 31, 2024']",['Ryo Yamazaki'],['Dino Santos'],['Masayuki Takagi'],['Kenichi Takeshita'],2.9,5 (Tied with Doraemon) *,6.0,4293.0,8.61
+1100,"['April 7, 2024']",['Atsuhiro Tomioka'],['Midori Tanaka'],"['Keita Saitō', 'Kimitaka Itō', 'Hiroyasu Oda', 'Shin Kashiwaguma(Assistant)', 'Akihiro Ota(Assistant)', 'Kaito Tomioka(Assistant)']",['Nozomu Shishido'],3.0,7,12.0,36805.0,9.68
+1101,"['April 21, 2024']",['Akiko Inoue'],"['Nagisa Nishida', 'Natsuki Takeda']","['Yong-Ce Tu', 'Ziwei He', 'Masayuki Sato(Assistant)']",['Wataru Matsumi'],,,12.0,20072.0,9.56
+1102,"['April 28, 2024']",['Shinzō Fujita'],['Dhavee Morato'],['Shigefumi Shingaki'],['Yusuke Suzuki'],2.6,7,10.0,3787.0,8.27
+1103,"['May 5, 2024']",['Jin Tanaka'],['Jiao Mou'],['Kazuya Hisada'],['Katsumi Tokoro'],2.6,10,12.0,4192.0,8.57
+1104,"['May 12, 2024']",['Tomohiro Nakayama'],['Dino Santos'],['Masahiro Kitazaki'],['Shō Matsui'],2.7,8 (Tied with Crayon Shin,9.0,4151.0,8.84
+1105,"['May 19, 2024']",['Shōji Yonemura'],['Momoko Fujikura'],"['Toshio Deguchi', 'RA CRAFT', 'Grand Guerrilla', 'Naotoshi Shida(Assistant)']",['Hazuki Omoya'],2.9,7,11.0,3745.0,8.46
+1106,"['May 26, 2024']",['Ryo Yamazaki'],"['Natsuki Takeda', 'Nagisa Nishida']",['Eisaku Inoue'],['Eri Hyun'],2.8,6,10.0,4099.0,8.0
+1107,"['June 2, 2024']",['Akiko Inoue'],['Dhavee Morato'],['Kenji Yokoyama'],['Tasuku Shimaya'],2.7,6,11.0,3830.0,7.61
+1108,"['June 9, 2024']",['Shinzō Fujita'],['Jiao Mou'],"['Masahiro Shimanuki', 'Shin Kashiwaguma(Assistant)', 'Hiroto Saitō(Assistant)']",['Atsuki Yamai'],2.8,7 (Tied with Pretty Cure) *,7.0,3988.0,7.82
+1109,"['June 23, 2024']",['Jin Tanaka'],['Dino Santos'],"['Masayuki Takagi', 'Eisaku Inoue(Assistant)']",['Nanami Michibata'],3.5,5,5.0,8834.0,9.18
+1110,"['June 30, 2024']",['Tomohiro Nakayama'],['Tongnian Chen'],"['Shūichi Itō', 'Nobuyuki Iwai']",['Katsumi Tokoro'],2.7,8,13.0,3994.0,8.21
+1111,"['July 7, 2024']",['Shōji Yonemura'],['Dhavee Morato'],"['Keita Saitō', 'Kimitaka Itō', 'Keisuke Mori', 'Kenji Yokoyama(Assistant)', 'Neru Takuyama(Assistant)']",['Toshinori Fukuzawa'],2.9,4 (Tied with Crayon Shin,13.0,3812.0,8.5
+1112,"['July 14, 2024']",['Ryo Yamazaki'],"['Natsuki Takeda', 'Nagisa Nishida']","['Yong-Ce Tu', 'Ziwei He', 'Masayuki Sato(Assistant)', 'Akihiro Ota(Assistant)']",['Wataru Matsumi'],3.1,4,13.0,35064.0,9.7
+1113,"['July 28, 2024']",['Atsuhiro Tomioka'],['Jiao Mou'],"['Shigefumi Shingaki', 'Toshio Deguchi', 'Masahiro Kitazaki(Assistant)']",['Yusuke Suzuki'],2.7,5,9.0,4163.0,8.41
+1114,"['August 4, 2024']",['Akiko Inoue'],['Dino Santos'],"['Kazuya Hisada', 'Hone Hone']",['Hazuki Omoya'],2.7,6 (Tied with That Time I Got Reincarnated as a Slime) *,12.0,24085.0,9.69
+1115,"['August 11, 2024']",['Shinzō Fujita'],['Momoko Fujikura'],"['Masahiro Kitazaki', 'Hiroyasu Oda', 'Hone Hone', 'RA CRAFT', 'Grand Guerrilla', 'Ririka Fukatani', 'Chiharu Akakura', 'Evereux{Assistant}', 'Shin Kashiwaguma{Assistant}', 'Hiroto Saitō{Assistant}']",['Nozomu Shishido'],2.7,4,9.0,18266.0,9.68
+1116,"['August 18, 2024']",['Jin Tanaka'],"['Natsuki Takeda', 'Yuko Doi', 'Eiji Hamano']",['Eisaku Inoue'],['Eri Hyun'],2.9,5,13.0,3909.0,8.42
+1117,"['September 1, 2024']",['Tomohiro Nakayama'],['Dhavee Morato'],['Kenji Yokoyama'],['Tasuku Shimaya'],2.8,7,13.0,3569.0,8.22
+1118,"['September 8, 2024']",['Shōji Yonemura'],['Jiao Mou'],['Masayuki Takagi'],['Kenichi Takeshita'],2.5,9,14.0,5428.0,9.0
+1119,"['September 15, 2024']",['Atsuhiro Tomioka'],['Dino Santos'],"['Ziwei He', 'Masahiro Shimanuki']",['Yasuhiro Tanabe'],2.5,9,15.0,9857.0,9.47
+1120,"['September 22, 2024']",['Atsuhiro Tomioka'],"['Natsuki Takeda', 'Eiji Hamano', 'Yuko Doi']","['Shūichi Itō', 'Toshio Deguchi']",['Katsumi Tokoro'],2.8,6 (Tied with My Hero Academia and Doraemon) *,12.0,4951.0,8.76
+1121,"['October 6, 2024']",['Akiko Inoue'],['Dhavee Morato'],"['Masahiro Kitazaki', 'Yong-Ce Tu']",['Shō Matsui'],2.5,8,13.0,16543.0,9.47
+1122,"['October 13, 2024']",['Shinzō Fujita'],['Jiao Mou'],"['Kazuya Hisada', 'Keita Saitō', 'Katsumi Ishizuka', 'Hiroyasu Oda', 'Chiharu Akakura', 'Akihiro Ota(Assistant)', 'Ririka Fukatani(Assistant)', '']",['Yasunori Koyama'],2.5,10,16.0,20389.0,9.66
+1123,"['April 5, 2025']",['Shōji Yonemura'],"['Dhavee Morato', 'Guo Wei Huang']",['Kenji Yokoyama'],['Satoshi Itō'],3.9,5,15.0,7979.0,9.0
+1124,"['April 6, 2025']",['Jin Tanaka'],['Dino Santos'],['Eisaku Inoue'],['Aimi Yamauchi'],3.7,6,15.0,7085.0,8.66
+1125,"['April 13, 2025']",['Tomohiro Nakayama'],['Dhavee Morato'],"['Masayuki Takagi', 'Katsumi Ishizuka']",['Yasushi Tomoda'],3.1,7,16.0,9532.0,9.49
+1126,"['April 20, 2025']",['Atsuhiro Tomioka'],['Dino Santos'],"['Toshio Deguchi', 'Masahiro Kitazaki']",['Hazuki Omoya'],2.8,6,15.0,7225.0,9.0
+1127,"['April 27, 2025']",['Akiko Inoue'],['Dhavee Morato'],"['Yong-Ce Tu', 'Ziwei He', 'Akihiro Ota(Assistant)', 'Liu Zhiguang(Assistant)']",['Wataru Matsumi'],2.9,6,13.0,11506.0,9.57
+1128,"['May 4, 2025']",['Shinzō Fujita'],['Dino Santos'],['Shin Kashiwaguma'],['Nozomu Shishido'],3.2,6,16.0,13342.0,9.68
+1129,"['May 18, 2025']",,['Momoko Fujikura'],"['Keita Saitō', 'Kimitaka Itō', 'Fujī Rina', 'Ririka Fukatani', 'Katsumi Ishizuka', 'Neru Takuyama']",['Tasuku Shimaya'],2.9,5,13.0,9757.0,9.57
+1130,"['May 25, 2025']",['Jin Tanaka'],['Dhavee Morato'],"['Kazuya Hisada', 'Keisuke Mori(Training)']",['Eri Hyun'],2.7,7 (Tied with The Dinner Table Detective) *,15.0,9973.0,9.58
+1131,"['June 1, 2025']",['Tomohiro Nakayama'],['Dino Santos'],['Masahiro Kitazaki'],['Katsumi Tokoro'],2.9,7,11.0,6364.0,9.09
+1132,"['June 8, 2025']",['Ryo Yamazaki'],['Miho Kawakami'],"['Shigefumi Shingaki', 'Shūichi Itō']",['Shō Inuzuka'],,,13.0,6381.0,9.38
+1133,"['June 15, 2025']",['Atsuhiro Tomioka'],"['Dhavee Morato', 'Yuko Doi']",['Eisaku Inoue'],['Toshinori Fukuzawa'],2.7,8 (Tied with Crayon Shin,15.0,6057.0,9.2
+1134,"['June 29, 2025']",['Akiko Inoue'],['Momoko Fujikura'],"['Takagi Masayuki', 'Toshio Deguchi']",['Hazuki Omoya'],2.8,8,15.0,5990.0,9.2
+1135,"['July 6, 2025']",,"['Dino Santos', 'Midori Tanaka']",['Kenji Yokoyama'],"['Shō Matsui', 'Wataru Matsumi']",3.7,7,14.0,6978.0,9.29
+1136,"['July 13, 2025']",['Shōji Yonemura'],['Dhavee Morato'],"['Hiroto Saitō', 'Kimitaka Itō', 'Masayuki Sato', 'Keisuke Mori(Training)', '']",['Yasunori Koyama'],2.7,5,15.0,47807.0,9.79
+1137,"['July 27, 2025']",['Jin Tanaka'],['Dhavee Morato'],"['Yong-Ce Tu', 'Ziwei He', 'Keisuke Mori(Training)']",['Wataru Matsumi'],2.7,5,17.0,18986.0,9.68
+1138,"['August 3, 2025']",['Tomohiro Nakayama'],['Momoko Fujikura'],['Masahiro Kitazaki'],['Tomohiro Higashi'],2.6,5,9.0,7375.0,8.02
+1139,"['August 10, 2025']",['Ryo Yamazaki'],['Tomomi Iwase'],['Kazuya Hisada'],['Yusuke Suzuki'],2.6,7 (Tied with Doraemon) *,11.0,5750.0,8.36
+1140,"['August 17, 2025']",['Atsuhiro Tomioka'],"['Dino Santos', 'Erwin Sadia', 'Uli Samañiego', 'Yuko Doi']","['Nobuyuki Iwai', 'Keita Saitō']",['Yasuhiro Tanabe'],2.3,7 (Tied with Yaiba: Samurai Legend) *,15.0,7289.0,8.89
+1141,"['August 24, 2025']",['Akiko Inoue'],['Ryūta Hayashi'],"['Shigefumi Shingaki', 'Shūichi Itō', 'Liu Zhiguang']",['Eri Hyun'],2.7,4 (Tied with You and Idol Pretty Cure) *,15.0,5794.0,8.63
+1142,"['September 7, 2025']",['Shinzō Fujita'],['Dhavee Morato'],['Eisaku Inoue'],['Atsuki Yamai'],2.8,5,12.0,5701.0,9.0
+1143,"['September 14, 2025']",['Shōji Yonemura'],['Momoko Fujikura'],"['Toshio Deguchi', 'Yuki Yoshida']",['Hazuki Omoya'],2.3,8,13.0,5726.0,8.89
+1144,"['September 21, 2025']",['Jin Tanaka'],['Tomomi Iwase'],"['Shin Kashiwaguma', 'Katsumi Ishizuka', 'Yong-Ce Tu']",['Toshinori Fukuzawa'],2.6,5 (Tied with You and Idol Pretty Cure) *,15.0,20561.0,9.68
+1145,"['September 28, 2025']",['Tomohiro Nakayama'],"['Dino Santos', 'Erwin Sadia', 'Uli Samañiego', 'Yuko Doi']",['Masayuki Takagi'],['Kenichi Takeshita'],2.6,5,16.0,5574.0,8.8
+1146,"['October 19, 2025']",['Ryo Yamazaki'],['Dhavee Morato'],['Kenji Yokoyama'],['Shō Inuzuka'],2.8,"6 (Tied with ""Spy x Family"" and ""You and Idol Pretty Cure"") *",15.0,4089.0,8.75
+1147,"['October 26, 2025']",['Atsuhiro Tomioka'],['Momoko Fujikura'],['Masahiro Kitazaki'],['Katsumi Tokoro'],3.1,7,16.0,3792.0,8.1
+1148,"['November 2, 2025']",['Akiko Inoue'],"['Tomomi Iwase', 'Midori Tanaka']",['Kazuya Hisada'],['Yusuke Suzuki'],2.8,6,16.0,3744.0,8.67
+1149,"['November 9, 2025']",['Shinzō Fujita'],"['Dino Santos', 'Yuko Doi']","['Hiroto Saitō', 'Yuki Yoshida']",['Shō Matsui'],3.4,4,22.0,4414.0,9.28
+1150,"['November 16, 2025']",['Shōji Yonemura'],['Dhavee Morato'],"['Eisaku Inoue', 'Keita Saitō', 'Kimitaka Itō']",['Tomohiro Higashi'],2.8,5,16.0,4129.0,8.68
+1151,"['November 30, 2025']",['Jin Tanaka'],"['Momoko Fujikura', 'Emiko Naga']","['Masahiro Shimanuki', 'Liu Zhiguang']",['Eri Hyun'],2.8,7 (Tied with Crayon Shin,21.0,8313.0,9.58
+1152,"['December 7, 2025']",['Tomohiro Nakayama'],['Tomomi Iwase'],"['Yong-Ce Tu', 'Ziwei He']",['Nozomu Shishido'],2.8,8,26.0,7546.0,9.67
+1153,"['December 14, 2025']",['Ryo Yamazaki'],"['Dino Santos', 'Yuko Doi']","['Toshio Deguchi', 'Runze Wang']",['Hazuki Omoya'],2.8,8,17.0,10356.0,9.78
+1154,"['December 21, 2025']",['Atsuhiro Tomioka'],['Dhavee Morato'],"['Masahiro Kitazaki', 'Shigefumi Shingaki']",['Satoshi Itō'],2.4,9 (Tied with Oshiri Tantei) *,20.0,3386.0,9.04
+1155,"['December 28, 2025']",['Shōji Yonemura'],['Emiko Naga'],['Shūichi Itō'],"['Atsuki Yamai', 'Yasunori Koyama']",2.6,7,21.0,5841.0,9.4
